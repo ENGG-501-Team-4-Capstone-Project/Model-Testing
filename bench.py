@@ -5,7 +5,7 @@ Results are collected into pandas DataFrames.
 Setup:
     pip install requests pandas python-dotenv
     echo 'OPENROUTER_API_KEY=sk-or-...' > .env     # next to bench.py
-    # images go in images/tags/ (file names must match the keys in ground_truth.json)
+    # images go in images/tags/ (file names must match the keys in answers.json)
 
 Run:
     python bench.py             # run the benchmark
