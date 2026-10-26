@@ -1,0 +1,541 @@
+model,image,run,field,expected,predicted,correct
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,manufacturer,USCC,USCC,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,model,PRS2-3,PRS2-3,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,serial_number,11213461413,1121346-14-13,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,mfg_date,5/28/25,5/28/25,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,wll_vertical_lbs,5300,5300,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,wll_choker_lbs,4200,4200,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,wll_basket_lbs,10600,10600,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,manufacturer,USCC,USCC,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,model,PRS2-3,PRS2-3,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,serial_number,11213461413,1121346-14-13,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,mfg_date,5/28/25,5/28/25,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,wll_vertical_lbs,5300,5300,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,wll_choker_lbs,4200,4200,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,wll_basket_lbs,10600,10600,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,manufacturer,USCC,USCC,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,model,PRS2-3,PRS2-3,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,serial_number,11213461413,1121346-14-13,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,mfg_date,5/28/25,5/28/25,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,wll_vertical_lbs,5300,5300,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,wll_choker_lbs,4200,4200,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,wll_basket_lbs,10600,10600,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,manufacturer,UNIROPE,UNIROPE SLINGMAX,False
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,code,UPD-L 2300,UPD-L 2300,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,material,Polyester,Polyester,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,length,6,6,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,design_factor,5:1,5:1,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,vertical_lbs,23000,23000,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,vertical_kgs,10430,10430,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,choker_lbs,18400,18400,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,choker_kgs,8340,8340,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,basket_90_lbs,46000,46000,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,basket_90_kgs,20860,20860,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,manufacturer,UNIROPE,UNIROPE SLINGMAX,False
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,code,UPD-L 2300,UPD-L 2300,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,material,Polyester,Polyester,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,length,6,6,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,design_factor,5:1,5:1,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,vertical_lbs,23000,23000,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,vertical_kgs,10430,10430,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,choker_lbs,18400,18400,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,choker_kgs,8340,8340,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,basket_90_lbs,46000,46000,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,basket_90_kgs,20860,20860,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,manufacturer,UNIROPE,UNIROPE SLINGMAX,False
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,code,UPD-L 2300,UPD-L 2300,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,material,Polyester,Polyester,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,length,6,6,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,design_factor,5:1,5:1,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,vertical_lbs,23000,23000,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,vertical_kgs,10430,10430,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,choker_lbs,18400,18400,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,choker_kgs,8340,8340,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,basket_90_lbs,46000,46000,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,basket_90_kgs,20860,20860,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,brand,WEBMASTER,WEMASTER,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,material,POLYESTER,POLYESTER,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,width_in,4,4,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,length_ft,4,4,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,type,3 EE1-804D,3 EE1-6040,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,serial_number,853131-1,S.N 5131,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,vertical_lbs,6400,6400,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,choker_lbs,5000,5000,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,basket_lbs,12800,12800,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,brand,WEBMASTER,WESTMARSTER,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,material,POLYESTER,POLYESTER,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,width_in,4,4,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,length_ft,4,4,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,type,3 EE1-804D,3 EE1-6040,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,serial_number,853131-1,S.N 5131,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,vertical_lbs,6400,6400,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,choker_lbs,5000,5000,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,basket_lbs,12800,12800,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,brand,WEBMASTER,WEHMASTER,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,material,POLYESTER,POLYESTER,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,width_in,4,4,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,length_ft,4,4,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,type,3 EE1-804D,3 EE1-6040,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,serial_number,853131-1,S.N 5131,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,vertical_lbs,6400,6400,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,choker_lbs,5000,5000,True
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,basket_lbs,12800,12800,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,brand,PRIME TAGS,PRIME TAGS,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,grade,CHAIN SLING,CHAIN SLING,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,chain_size,10MM,10MM,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,date_in_service,13/08/2025,13/08/2025,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,serial_number,CS10001,CS10001,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,wll_left_t,3.2,3.2,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,wll_right_t,2.5,2.5,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,brand,PRIME TAGS,PRIME TAGS,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,grade,CHAIN SLING,CHAIN SLING,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,chain_size,10MM,10MM,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,date_in_service,13/08/2025,13/08/2025,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,serial_number,CS10001,CS10001,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,wll_left_t,3.2,3.2,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,wll_right_t,2.5,2.5,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,brand,PRIME TAGS,PRIME TAGS,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,grade,CHAIN SLING,CHAIN SLING,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,chain_size,10MM,10MM,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,date_in_service,13/08/2025,13/08/2025,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,serial_number,CS10001,CS10001,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,wll_left_t,3.2,3.2,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,wll_right_t,2.5,2.5,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,brand,MAZZELLA,MAZZELLA,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,sling_type,7-PART SLING,7-PART SLING,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,component_dia,1/8,"1/8""",True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,finished_dia,3/8,"3/8""",True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,length,8,8,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,vertical_tons,1.2,1.2,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,choker_tons,1.0,1.0,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,basket_90_tons,2.4,2.4,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,date,08-20,03-20,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,serial_number,30P30619094,38P3861-9-034,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,brand,MAZZELLA,MAZZELLA,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,sling_type,7-PART SLING,7-PART SLING,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,component_dia,1/8,"1/8""",True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,finished_dia,3/8,"3/8""",True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,length,8,8,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,vertical_tons,1.2,1.2,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,choker_tons,1.0,1.0,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,basket_90_tons,2.4,2.4,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,date,08-20,03-20,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,serial_number,30P30619094,38P3861-9-034,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,brand,MAZZELLA,MAZZELLA,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,sling_type,7-PART SLING,7-PART SLING,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,component_dia,1/8,"1/8""",True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,finished_dia,3/8,"3/8""",True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,length,8,8,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,vertical_tons,1.2,1.2,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,choker_tons,1.0,1.0,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,basket_90_tons,2.4,2.4,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,date,08-20,03-20,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,serial_number,30P30619094,38P3861-9-034,False
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,manufacturer,USCC,USCC,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,model,PRS2-3,PRS2-3,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,serial_number,11213461413,1121346-14-13,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,mfg_date,5/28/25,5/28/25,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,wll_vertical_lbs,5300,5300,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,wll_choker_lbs,4200,4200,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,wll_basket_lbs,10600,10600,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,manufacturer,USCC,USCC,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,model,PRS2-3,PRS2-3,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,serial_number,11213461413,1121346-14-13,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,mfg_date,5/28/25,5/28/25,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,wll_vertical_lbs,5300,5300,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,wll_choker_lbs,4200,4200,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,wll_basket_lbs,10600,10600,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,manufacturer,USCC,USCC,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,model,PRS2-3,PRS2-3,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,serial_number,11213461413,1121346-14-13,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,mfg_date,5/28/25,5/28/25,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,wll_vertical_lbs,5300,5300,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,wll_choker_lbs,4200,4200,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,wll_basket_lbs,10600,10600,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,manufacturer,UNIROPE,UNIROPE,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,code,UPD-L 2300,UPD-L 2300,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,material,Polyester,Polyester,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,length,6,6,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,design_factor,5:1,5:1,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,vertical_lbs,23000,23000,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,vertical_kgs,10430,10430,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,choker_lbs,18400,18400,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,choker_kgs,8340,8340,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,basket_90_lbs,46000,46000,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,basket_90_kgs,20860,20860,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,manufacturer,UNIROPE,UNIROPE,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,code,UPD-L 2300,UPD-L 2300,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,material,Polyester,Polyester,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,length,6,6,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,design_factor,5:1,5:1,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,vertical_lbs,23000,23000,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,vertical_kgs,10430,10430,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,choker_lbs,18400,18400,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,choker_kgs,8340,8340,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,basket_90_lbs,46000,46000,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,basket_90_kgs,20860,20860,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,manufacturer,UNIROPE,UNIROPE,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,code,UPD-L 2300,UPD-L 2300,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,material,Polyester,Polyester,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,length,6,6,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,design_factor,5:1,5:1,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,vertical_lbs,23000,23000,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,vertical_kgs,10430,10430,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,choker_lbs,18400,18400,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,choker_kgs,8340,8340,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,basket_90_lbs,46000,46000,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,basket_90_kgs,20860,20860,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,brand,WEBMASTER,WEINBRENNER,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,material,POLYESTER,POLYESTER,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,width_in,4,4,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,length_ft,4,4,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,type,3 EE1-804D,3 EE1-8040,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,serial_number,853131-1,35-1,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,vertical_lbs,6400,6400,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,choker_lbs,5000,5000,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,basket_lbs,12800,12800,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,brand,WEBMASTER,WEINBRENNER,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,material,POLYESTER,POLYESTER,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,width_in,4,4,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,length_ft,4,4,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,type,3 EE1-804D,3 EE1-8040,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,serial_number,853131-1,35-1,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,vertical_lbs,6400,6400,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,choker_lbs,5000,5000,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,basket_lbs,12800,12800,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,brand,WEBMASTER,WEINBRENNER,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,material,POLYESTER,POLYESTER,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,width_in,4,4,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,length_ft,4,4,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,type,3 EE1-804D,3 EE1-8040,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,serial_number,853131-1,35-1,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,vertical_lbs,6400,6400,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,choker_lbs,5000,5000,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,basket_lbs,12800,12800,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,brand,PRIME TAGS,PRIME TAGS,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,grade,CHAIN SLING,CHAIN SLING,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,chain_size,10MM,10MM,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,date_in_service,13/08/2025,13/08/2025,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,serial_number,CS10001,CS10001,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,wll_left_t,3.2,3.2,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,wll_right_t,2.5,2.5,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,brand,PRIME TAGS,PRIME TAGS,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,grade,CHAIN SLING,CHAIN SLING,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,chain_size,10MM,10MM,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,date_in_service,13/08/2025,13/08/2025,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,serial_number,CS10001,CS10001,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,wll_left_t,3.2,3.2,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,wll_right_t,2.5,2.5,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,brand,PRIME TAGS,PRIME TAGS,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,grade,CHAIN SLING,CHAIN SLING,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,chain_size,10MM,10MM,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,date_in_service,13/08/2025,13/08/2025,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,serial_number,CS10001,CS10001,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,wll_left_t,3.2,3.2,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,wll_right_t,2.5,2.5,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,brand,MAZZELLA,MAZZELLA,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,sling_type,7-PART SLING,7-PART SLING,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,component_dia,1/8,1/8,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,finished_dia,3/8,3/8,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,length,8,,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,vertical_tons,1.2,1.2,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,choker_tons,1.0,1.0,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,basket_90_tons,2.4,2.4,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,date,08-20,08-20,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,serial_number,30P30619094,30P30661S1634,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,brand,MAZZELLA,MAZZELLA,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,sling_type,7-PART SLING,7-PART SLING,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,component_dia,1/8,1/8,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,finished_dia,3/8,3/8,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,length,8,,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,vertical_tons,1.2,1.2,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,choker_tons,1.0,1.0,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,basket_90_tons,2.4,2.4,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,date,08-20,08-20,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,serial_number,30P30619094,30P30661-3-1-64,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,brand,MAZZELLA,MAZZELLA,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,sling_type,7-PART SLING,7-PART SLING,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,component_dia,1/8,1/8,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,finished_dia,3/8,3/8,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,length,8,,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,vertical_tons,1.2,1.2,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,choker_tons,1.0,1.0,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,basket_90_tons,2.4,2.4,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,date,08-20,08-20,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,serial_number,30P30619094,30P30661-3-1-64,False
+anthropic/claude-haiku-5.5,1.jpg,1,manufacturer,USCC,USCC,True
+anthropic/claude-haiku-5.5,1.jpg,1,model,PRS2-3,PRS2-3,True
+anthropic/claude-haiku-5.5,1.jpg,1,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+anthropic/claude-haiku-5.5,1.jpg,1,serial_number,11213461413,1121346-14-13,True
+anthropic/claude-haiku-5.5,1.jpg,1,mfg_date,5/28/25,5/28/25,True
+anthropic/claude-haiku-5.5,1.jpg,1,wll_vertical_lbs,5300,5300,True
+anthropic/claude-haiku-5.5,1.jpg,1,wll_choker_lbs,4200,4200,True
+anthropic/claude-haiku-5.5,1.jpg,1,wll_basket_lbs,10600,10600,True
+anthropic/claude-haiku-5.5,1.jpg,2,manufacturer,USCC,USCC,True
+anthropic/claude-haiku-5.5,1.jpg,2,model,PRS2-3,PRS2-3,True
+anthropic/claude-haiku-5.5,1.jpg,2,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+anthropic/claude-haiku-5.5,1.jpg,2,serial_number,11213461413,1121346-14-13,True
+anthropic/claude-haiku-5.5,1.jpg,2,mfg_date,5/28/25,5/28/25,True
+anthropic/claude-haiku-5.5,1.jpg,2,wll_vertical_lbs,5300,5300,True
+anthropic/claude-haiku-5.5,1.jpg,2,wll_choker_lbs,4200,4200,True
+anthropic/claude-haiku-5.5,1.jpg,2,wll_basket_lbs,10600,10600,True
+anthropic/claude-haiku-5.5,1.jpg,3,manufacturer,USCC,USCC,True
+anthropic/claude-haiku-5.5,1.jpg,3,model,PRS2-3,PRS2-3,True
+anthropic/claude-haiku-5.5,1.jpg,3,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+anthropic/claude-haiku-5.5,1.jpg,3,serial_number,11213461413,1121346-14-13,True
+anthropic/claude-haiku-5.5,1.jpg,3,mfg_date,5/28/25,5/28/25,True
+anthropic/claude-haiku-5.5,1.jpg,3,wll_vertical_lbs,5300,5300,True
+anthropic/claude-haiku-5.5,1.jpg,3,wll_choker_lbs,4200,4200,True
+anthropic/claude-haiku-5.5,1.jpg,3,wll_basket_lbs,10600,10600,True
+anthropic/claude-haiku-5.5,2.jpg,1,manufacturer,UNIROPE,UNIROPE,True
+anthropic/claude-haiku-5.5,2.jpg,1,code,UPD-L 2300,UPD-L 2300,True
+anthropic/claude-haiku-5.5,2.jpg,1,material,Polyester,Polyester,True
+anthropic/claude-haiku-5.5,2.jpg,1,length,6,6,True
+anthropic/claude-haiku-5.5,2.jpg,1,design_factor,5:1,5:1,True
+anthropic/claude-haiku-5.5,2.jpg,1,vertical_lbs,23000,23000,True
+anthropic/claude-haiku-5.5,2.jpg,1,vertical_kgs,10430,10430,True
+anthropic/claude-haiku-5.5,2.jpg,1,choker_lbs,18400,18400,True
+anthropic/claude-haiku-5.5,2.jpg,1,choker_kgs,8340,8340,True
+anthropic/claude-haiku-5.5,2.jpg,1,basket_90_lbs,46000,46000,True
+anthropic/claude-haiku-5.5,2.jpg,1,basket_90_kgs,20860,20860,True
+anthropic/claude-haiku-5.5,2.jpg,2,manufacturer,UNIROPE,UNIROPE,True
+anthropic/claude-haiku-5.5,2.jpg,2,code,UPD-L 2300,UPD-L 2300,True
+anthropic/claude-haiku-5.5,2.jpg,2,material,Polyester,Polyester,True
+anthropic/claude-haiku-5.5,2.jpg,2,length,6,6,True
+anthropic/claude-haiku-5.5,2.jpg,2,design_factor,5:1,5:1,True
+anthropic/claude-haiku-5.5,2.jpg,2,vertical_lbs,23000,23000,True
+anthropic/claude-haiku-5.5,2.jpg,2,vertical_kgs,10430,10430,True
+anthropic/claude-haiku-5.5,2.jpg,2,choker_lbs,18400,18400,True
+anthropic/claude-haiku-5.5,2.jpg,2,choker_kgs,8340,8340,True
+anthropic/claude-haiku-5.5,2.jpg,2,basket_90_lbs,46000,46000,True
+anthropic/claude-haiku-5.5,2.jpg,2,basket_90_kgs,20860,20860,True
+anthropic/claude-haiku-5.5,2.jpg,3,manufacturer,UNIROPE,UNIROPE,True
+anthropic/claude-haiku-5.5,2.jpg,3,code,UPD-L 2300,UPD-L 2300,True
+anthropic/claude-haiku-5.5,2.jpg,3,material,Polyester,Polyester,True
+anthropic/claude-haiku-5.5,2.jpg,3,length,6,6,True
+anthropic/claude-haiku-5.5,2.jpg,3,design_factor,5:1,5:1,True
+anthropic/claude-haiku-5.5,2.jpg,3,vertical_lbs,23000,23000,True
+anthropic/claude-haiku-5.5,2.jpg,3,vertical_kgs,10430,10430,True
+anthropic/claude-haiku-5.5,2.jpg,3,choker_lbs,18400,18400,True
+anthropic/claude-haiku-5.5,2.jpg,3,choker_kgs,8340,8340,True
+anthropic/claude-haiku-5.5,2.jpg,3,basket_90_lbs,46000,46000,True
+anthropic/claude-haiku-5.5,2.jpg,3,basket_90_kgs,20860,20860,True
+anthropic/claude-haiku-5.5,3.jpg,1,brand,WEBMASTER,Werimaster,False
+anthropic/claude-haiku-5.5,3.jpg,1,material,POLYESTER,POLYESTER,True
+anthropic/claude-haiku-5.5,3.jpg,1,width_in,4,4,True
+anthropic/claude-haiku-5.5,3.jpg,1,length_ft,4,4,True
+anthropic/claude-haiku-5.5,3.jpg,1,type,3 EE1-804D,3 EE1-804D,True
+anthropic/claude-haiku-5.5,3.jpg,1,serial_number,853131-1,5331-1,False
+anthropic/claude-haiku-5.5,3.jpg,1,vertical_lbs,6400,6400,True
+anthropic/claude-haiku-5.5,3.jpg,1,choker_lbs,5000,5000,True
+anthropic/claude-haiku-5.5,3.jpg,1,basket_lbs,12800,12800,True
+anthropic/claude-haiku-5.5,3.jpg,2,brand,WEBMASTER,Werma-Ster,False
+anthropic/claude-haiku-5.5,3.jpg,2,material,POLYESTER,POLYESTER,True
+anthropic/claude-haiku-5.5,3.jpg,2,width_in,4,4,True
+anthropic/claude-haiku-5.5,3.jpg,2,length_ft,4,4,True
+anthropic/claude-haiku-5.5,3.jpg,2,type,3 EE1-804D,3 EE1-804D,True
+anthropic/claude-haiku-5.5,3.jpg,2,serial_number,853131-1,5301-1,False
+anthropic/claude-haiku-5.5,3.jpg,2,vertical_lbs,6400,6400,True
+anthropic/claude-haiku-5.5,3.jpg,2,choker_lbs,5000,5000,True
+anthropic/claude-haiku-5.5,3.jpg,2,basket_lbs,12800,12800,True
+anthropic/claude-haiku-5.5,3.jpg,3,brand,WEBMASTER,Wesmaster,False
+anthropic/claude-haiku-5.5,3.jpg,3,material,POLYESTER,POLYESTER,True
+anthropic/claude-haiku-5.5,3.jpg,3,width_in,4,4,True
+anthropic/claude-haiku-5.5,3.jpg,3,length_ft,4,4,True
+anthropic/claude-haiku-5.5,3.jpg,3,type,3 EE1-804D,3 EE1-804D,True
+anthropic/claude-haiku-5.5,3.jpg,3,serial_number,853131-1,5303-1,False
+anthropic/claude-haiku-5.5,3.jpg,3,vertical_lbs,6400,6400,True
+anthropic/claude-haiku-5.5,3.jpg,3,choker_lbs,5000,5000,True
+anthropic/claude-haiku-5.5,3.jpg,3,basket_lbs,12800,12800,True
+anthropic/claude-haiku-5.5,4.jpg,1,brand,PRIME TAGS,PRIME TAGS,True
+anthropic/claude-haiku-5.5,4.jpg,1,grade,CHAIN SLING,CHAIN SLING,True
+anthropic/claude-haiku-5.5,4.jpg,1,chain_size,10MM,10MM,True
+anthropic/claude-haiku-5.5,4.jpg,1,date_in_service,13/08/2025,13/08/2025,True
+anthropic/claude-haiku-5.5,4.jpg,1,serial_number,CS10001,CS10001,True
+anthropic/claude-haiku-5.5,4.jpg,1,wll_left_t,3.2,3,False
+anthropic/claude-haiku-5.5,4.jpg,1,wll_right_t,2.5,2,False
+anthropic/claude-haiku-5.5,4.jpg,2,brand,PRIME TAGS,PRIME TAGS,True
+anthropic/claude-haiku-5.5,4.jpg,2,grade,CHAIN SLING,CHAIN SLING,True
+anthropic/claude-haiku-5.5,4.jpg,2,chain_size,10MM,10MM,True
+anthropic/claude-haiku-5.5,4.jpg,2,date_in_service,13/08/2025,13/08/2025,True
+anthropic/claude-haiku-5.5,4.jpg,2,serial_number,CS10001,CS10001,True
+anthropic/claude-haiku-5.5,4.jpg,2,wll_left_t,3.2,3.2,True
+anthropic/claude-haiku-5.5,4.jpg,2,wll_right_t,2.5,2.5,True
+anthropic/claude-haiku-5.5,4.jpg,3,brand,PRIME TAGS,PRIME TAGS,True
+anthropic/claude-haiku-5.5,4.jpg,3,grade,CHAIN SLING,CHAIN SLING,True
+anthropic/claude-haiku-5.5,4.jpg,3,chain_size,10MM,10MM,True
+anthropic/claude-haiku-5.5,4.jpg,3,date_in_service,13/08/2025,13/08/2025,True
+anthropic/claude-haiku-5.5,4.jpg,3,serial_number,CS10001,CS10001,True
+anthropic/claude-haiku-5.5,4.jpg,3,wll_left_t,3.2,3,False
+anthropic/claude-haiku-5.5,4.jpg,3,wll_right_t,2.5,2,False
+anthropic/claude-haiku-5.5,5.jpg,1,brand,MAZZELLA,MAZZELLA,True
+anthropic/claude-haiku-5.5,5.jpg,1,sling_type,7-PART SLING,7-PART SLING,True
+anthropic/claude-haiku-5.5,5.jpg,1,component_dia,1/8,1/8,True
+anthropic/claude-haiku-5.5,5.jpg,1,finished_dia,3/8,3/8,True
+anthropic/claude-haiku-5.5,5.jpg,1,length,8,8,True
+anthropic/claude-haiku-5.5,5.jpg,1,vertical_tons,1.2,1.2,True
+anthropic/claude-haiku-5.5,5.jpg,1,choker_tons,1.0,1.0,True
+anthropic/claude-haiku-5.5,5.jpg,1,basket_90_tons,2.4,2.4,True
+anthropic/claude-haiku-5.5,5.jpg,1,date,08-20,08-20,True
+anthropic/claude-haiku-5.5,5.jpg,1,serial_number,30P30619094,38P3861946654,False
+anthropic/claude-haiku-5.5,5.jpg,2,brand,MAZZELLA,MAZZELLA,True
+anthropic/claude-haiku-5.5,5.jpg,2,sling_type,7-PART SLING,7-PART SLING,True
+anthropic/claude-haiku-5.5,5.jpg,2,component_dia,1/8,1/8,True
+anthropic/claude-haiku-5.5,5.jpg,2,finished_dia,3/8,3/8,True
+anthropic/claude-haiku-5.5,5.jpg,2,length,8,8,True
+anthropic/claude-haiku-5.5,5.jpg,2,vertical_tons,1.2,1.2,True
+anthropic/claude-haiku-5.5,5.jpg,2,choker_tons,1.0,1.0,True
+anthropic/claude-haiku-5.5,5.jpg,2,basket_90_tons,2.4,2.4,True
+anthropic/claude-haiku-5.5,5.jpg,2,date,08-20,08-20,True
+anthropic/claude-haiku-5.5,5.jpg,2,serial_number,30P30619094,38P36614964,False
+anthropic/claude-haiku-5.5,5.jpg,3,brand,MAZZELLA,MAZZELLA,True
+anthropic/claude-haiku-5.5,5.jpg,3,sling_type,7-PART SLING,7-PART SLING,True
+anthropic/claude-haiku-5.5,5.jpg,3,component_dia,1/8,1/8,True
+anthropic/claude-haiku-5.5,5.jpg,3,finished_dia,3/8,3/8,True
+anthropic/claude-haiku-5.5,5.jpg,3,length,8,8,True
+anthropic/claude-haiku-5.5,5.jpg,3,vertical_tons,1.2,1.2,True
+anthropic/claude-haiku-5.5,5.jpg,3,choker_tons,1.0,1.0,True
+anthropic/claude-haiku-5.5,5.jpg,3,basket_90_tons,2.4,2.4,True
+anthropic/claude-haiku-5.5,5.jpg,3,date,08-20,08-20,True
+anthropic/claude-haiku-5.5,5.jpg,3,serial_number,30P30619094,38P3861983654,False
+openai/gpt-6-luna,1.jpg,1,manufacturer,USCC,US Cargo Control,False
+openai/gpt-6-luna,1.jpg,1,model,PRS2-3,PRS2-3,True
+openai/gpt-6-luna,1.jpg,1,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+openai/gpt-6-luna,1.jpg,1,serial_number,11213461413,11721346-14-13,False
+openai/gpt-6-luna,1.jpg,1,mfg_date,5/28/25,5/28/25,True
+openai/gpt-6-luna,1.jpg,1,wll_vertical_lbs,5300,5300,True
+openai/gpt-6-luna,1.jpg,1,wll_choker_lbs,4200,4200,True
+openai/gpt-6-luna,1.jpg,1,wll_basket_lbs,10600,10600,True
+openai/gpt-6-luna,1.jpg,2,manufacturer,USCC,US Cargo Control,False
+openai/gpt-6-luna,1.jpg,2,model,PRS2-3,PRS2-3,True
+openai/gpt-6-luna,1.jpg,2,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+openai/gpt-6-luna,1.jpg,2,serial_number,11213461413,11721346-14-13,False
+openai/gpt-6-luna,1.jpg,2,mfg_date,5/28/25,5/28/25,True
+openai/gpt-6-luna,1.jpg,2,wll_vertical_lbs,5300,5300,True
+openai/gpt-6-luna,1.jpg,2,wll_choker_lbs,4200,4200,True
+openai/gpt-6-luna,1.jpg,2,wll_basket_lbs,10600,10600,True
+openai/gpt-6-luna,1.jpg,3,manufacturer,USCC,US Cargo Control,False
+openai/gpt-6-luna,1.jpg,3,model,PRS2-3,PRS2-3,True
+openai/gpt-6-luna,1.jpg,3,sling_type,POLYESTER ROUND SLING,POLYESTER ROUND SLING,True
+openai/gpt-6-luna,1.jpg,3,serial_number,11213461413,11721346-14-13,False
+openai/gpt-6-luna,1.jpg,3,mfg_date,5/28/25,5/28/25,True
+openai/gpt-6-luna,1.jpg,3,wll_vertical_lbs,5300,5300,True
+openai/gpt-6-luna,1.jpg,3,wll_choker_lbs,4200,4200,True
+openai/gpt-6-luna,1.jpg,3,wll_basket_lbs,10600,10600,True
+openai/gpt-6-luna,2.jpg,1,manufacturer,UNIROPE,UNIROPE,True
+openai/gpt-6-luna,2.jpg,1,code,UPD-L 2300,UPD-L 2300,True
+openai/gpt-6-luna,2.jpg,1,material,Polyester,Polyester,True
+openai/gpt-6-luna,2.jpg,1,length,6,6,True
+openai/gpt-6-luna,2.jpg,1,design_factor,5:1,5:1,True
+openai/gpt-6-luna,2.jpg,1,vertical_lbs,23000,23000,True
+openai/gpt-6-luna,2.jpg,1,vertical_kgs,10430,10430,True
+openai/gpt-6-luna,2.jpg,1,choker_lbs,18400,18400,True
+openai/gpt-6-luna,2.jpg,1,choker_kgs,8340,8340,True
+openai/gpt-6-luna,2.jpg,1,basket_90_lbs,46000,46000,True
+openai/gpt-6-luna,2.jpg,1,basket_90_kgs,20860,20860,True
+openai/gpt-6-luna,2.jpg,2,manufacturer,UNIROPE,UNIROPE,True
+openai/gpt-6-luna,2.jpg,2,code,UPD-L 2300,UPD-L 2300,True
+openai/gpt-6-luna,2.jpg,2,material,Polyester,Polyester,True
+openai/gpt-6-luna,2.jpg,2,length,6,6,True
+openai/gpt-6-luna,2.jpg,2,design_factor,5:1,5:1,True
+openai/gpt-6-luna,2.jpg,2,vertical_lbs,23000,23000,True
+openai/gpt-6-luna,2.jpg,2,vertical_kgs,10430,10430,True
+openai/gpt-6-luna,2.jpg,2,choker_lbs,18400,18400,True
+openai/gpt-6-luna,2.jpg,2,choker_kgs,8340,8340,True
+openai/gpt-6-luna,2.jpg,2,basket_90_lbs,46000,46000,True
+openai/gpt-6-luna,2.jpg,2,basket_90_kgs,20860,20860,True
+openai/gpt-6-luna,2.jpg,3,manufacturer,UNIROPE,UNIROPE,True
+openai/gpt-6-luna,2.jpg,3,code,UPD-L 2300,UPD-L 2300,True
+openai/gpt-6-luna,2.jpg,3,material,Polyester,Polyester,True
+openai/gpt-6-luna,2.jpg,3,length,6,6,True
+openai/gpt-6-luna,2.jpg,3,design_factor,5:1,5:1,True
+openai/gpt-6-luna,2.jpg,3,vertical_lbs,23000,23000,True
+openai/gpt-6-luna,2.jpg,3,vertical_kgs,10430,10430,True
+openai/gpt-6-luna,2.jpg,3,choker_lbs,18400,18400,True
+openai/gpt-6-luna,2.jpg,3,choker_kgs,8340,8340,True
+openai/gpt-6-luna,2.jpg,3,basket_90_lbs,46000,46000,True
+openai/gpt-6-luna,2.jpg,3,basket_90_kgs,20860,20860,True
+openai/gpt-6-luna,3.jpg,1,brand,WEBMASTER,LIFT-ALL,False
+openai/gpt-6-luna,3.jpg,1,material,POLYESTER,POLYESTER,True
+openai/gpt-6-luna,3.jpg,1,width_in,4,4,True
+openai/gpt-6-luna,3.jpg,1,length_ft,4,4,True
+openai/gpt-6-luna,3.jpg,1,type,3 EE1-804D,EE1-8040,False
+openai/gpt-6-luna,3.jpg,1,serial_number,853131-1,S.N. 531,False
+openai/gpt-6-luna,3.jpg,1,vertical_lbs,6400,6400,True
+openai/gpt-6-luna,3.jpg,1,choker_lbs,5000,5000,True
+openai/gpt-6-luna,3.jpg,1,basket_lbs,12800,12800,True
+openai/gpt-6-luna,3.jpg,2,brand,WEBMASTER,LIFT-ALL,False
+openai/gpt-6-luna,3.jpg,2,material,POLYESTER,POLYESTER,True
+openai/gpt-6-luna,3.jpg,2,width_in,4,4,True
+openai/gpt-6-luna,3.jpg,2,length_ft,4,4,True
+openai/gpt-6-luna,3.jpg,2,type,3 EE1-804D,EE1-804,False
+openai/gpt-6-luna,3.jpg,2,serial_number,853131-1,S.N. 5315,False
+openai/gpt-6-luna,3.jpg,2,vertical_lbs,6400,6400,True
+openai/gpt-6-luna,3.jpg,2,choker_lbs,5000,5000,True
+openai/gpt-6-luna,3.jpg,2,basket_lbs,12800,12800,True
+openai/gpt-6-luna,3.jpg,3,brand,WEBMASTER,LIFT-ALL,False
+openai/gpt-6-luna,3.jpg,3,material,POLYESTER,POLYESTER,True
+openai/gpt-6-luna,3.jpg,3,width_in,4,4,True
+openai/gpt-6-luna,3.jpg,3,length_ft,4,4,True
+openai/gpt-6-luna,3.jpg,3,type,3 EE1-804D,EE1-8040,False
+openai/gpt-6-luna,3.jpg,3,serial_number,853131-1,S.N. 5356,False
+openai/gpt-6-luna,3.jpg,3,vertical_lbs,6400,6400,True
+openai/gpt-6-luna,3.jpg,3,choker_lbs,5000,5000,True
+openai/gpt-6-luna,3.jpg,3,basket_lbs,12800,12800,True
+openai/gpt-6-luna,4.jpg,1,brand,PRIME TAGS,PRIME TAGS,True
+openai/gpt-6-luna,4.jpg,1,grade,CHAIN SLING,CHAIN SLING,True
+openai/gpt-6-luna,4.jpg,1,chain_size,10MM,10MM,True
+openai/gpt-6-luna,4.jpg,1,date_in_service,13/08/2025,13/08/2025,True
+openai/gpt-6-luna,4.jpg,1,serial_number,CS10001,CS10001,True
+openai/gpt-6-luna,4.jpg,1,wll_left_t,3.2,3.2,True
+openai/gpt-6-luna,4.jpg,1,wll_right_t,2.5,2.5,True
+openai/gpt-6-luna,4.jpg,2,brand,PRIME TAGS,PRIME TAGS,True
+openai/gpt-6-luna,4.jpg,2,grade,CHAIN SLING,CHAIN SLING,True
+openai/gpt-6-luna,4.jpg,2,chain_size,10MM,10MM,True
+openai/gpt-6-luna,4.jpg,2,date_in_service,13/08/2025,13/08/2025,True
+openai/gpt-6-luna,4.jpg,2,serial_number,CS10001,CS10001,True
+openai/gpt-6-luna,4.jpg,2,wll_left_t,3.2,3.2,True
+openai/gpt-6-luna,4.jpg,2,wll_right_t,2.5,2.5,True
+openai/gpt-6-luna,4.jpg,3,brand,PRIME TAGS,PRIME TAGS,True
+openai/gpt-6-luna,4.jpg,3,grade,CHAIN SLING,CHAIN SLING,True
+openai/gpt-6-luna,4.jpg,3,chain_size,10MM,10MM,True
+openai/gpt-6-luna,4.jpg,3,date_in_service,13/08/2025,13/08/2025,True
+openai/gpt-6-luna,4.jpg,3,serial_number,CS10001,CS10001,True
+openai/gpt-6-luna,4.jpg,3,wll_left_t,3.2,3.2,True
+openai/gpt-6-luna,4.jpg,3,wll_right_t,2.5,2.5,True
+openai/gpt-6-luna,5.jpg,1,brand,MAZZELLA,MAZZELLA,True
+openai/gpt-6-luna,5.jpg,1,sling_type,7-PART SLING,7-PART SLING,True
+openai/gpt-6-luna,5.jpg,1,component_dia,1/8,1/8,True
+openai/gpt-6-luna,5.jpg,1,finished_dia,3/8,3/8,True
+openai/gpt-6-luna,5.jpg,1,length,8,8,True
+openai/gpt-6-luna,5.jpg,1,vertical_tons,1.2,1.2,True
+openai/gpt-6-luna,5.jpg,1,choker_tons,1.0,1.0,True
+openai/gpt-6-luna,5.jpg,1,basket_90_tons,2.4,2.4,True
+openai/gpt-6-luna,5.jpg,1,date,08-20,06-20,False
+openai/gpt-6-luna,5.jpg,1,serial_number,30P30619094,,False
+openai/gpt-6-luna,5.jpg,2,brand,MAZZELLA,MAZZELLA,True
+openai/gpt-6-luna,5.jpg,2,sling_type,7-PART SLING,7-PART SLING,True
+openai/gpt-6-luna,5.jpg,2,component_dia,1/8,1/8,True
+openai/gpt-6-luna,5.jpg,2,finished_dia,3/8,3/8,True
+openai/gpt-6-luna,5.jpg,2,length,8,3,False
+openai/gpt-6-luna,5.jpg,2,vertical_tons,1.2,12,False
+openai/gpt-6-luna,5.jpg,2,choker_tons,1.0,10,False
+openai/gpt-6-luna,5.jpg,2,basket_90_tons,2.4,24,False
+openai/gpt-6-luna,5.jpg,2,date,08-20,08-20,True
+openai/gpt-6-luna,5.jpg,2,serial_number,30P30619094,,False
+openai/gpt-6-luna,5.jpg,3,brand,MAZZELLA,MAZZELLA,True
+openai/gpt-6-luna,5.jpg,3,sling_type,7-PART SLING,7-PART SLING,True
+openai/gpt-6-luna,5.jpg,3,component_dia,1/8,1/8,True
+openai/gpt-6-luna,5.jpg,3,finished_dia,3/8,3/8,True
+openai/gpt-6-luna,5.jpg,3,length,8,8,True
+openai/gpt-6-luna,5.jpg,3,vertical_tons,1.2,1.2,True
+openai/gpt-6-luna,5.jpg,3,choker_tons,1.0,1.0,True
+openai/gpt-6-luna,5.jpg,3,basket_90_tons,2.4,2.4,True
+openai/gpt-6-luna,5.jpg,3,date,08-20,FEB-20,False
+openai/gpt-6-luna,5.jpg,3,serial_number,30P30619094,,False

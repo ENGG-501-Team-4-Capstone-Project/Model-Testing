@@ -1,0 +1,211 @@
+model,image,run,json_valid,error,latency_s,prompt_tokens,completion_tokens,cost_usd,finish_reason,raw_text,n_fields,n_correct,accuracy,full_match
+nvidia/nemotron-3.5-super-vl:free,1.jpg,1,True,,2.7339237019987195,1370,120,0.0,stop,"{
+  ""manufacturer"": ""USCC"",
+  ""model"": ""PRS2-3"",
+  ""sling_type"": ""POLYESTER ROUND SLING"",
+  ""serial_number"": ""1121346-14-13"",
+  ""mfg_date"": ""5/28/25"",
+  ""wll_vertical_lbs"": 5300,
+  ""wll_choker_lbs"": 4200,
+  ""wll_basket_lbs"": 10600
+}",8,8,1.0,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,2,True,,2.2804108430027554,1370,120,0.0,stop,"{
+  ""manufacturer"": ""USCC"",
+  ""model"": ""PRS2-3"",
+  ""sling_type"": ""POLYESTER ROUND SLING"",
+  ""serial_number"": ""1121346-14-13"",
+  ""mfg_date"": ""5/28/25"",
+  ""wll_vertical_lbs"": 5300,
+  ""wll_choker_lbs"": 4200,
+  ""wll_basket_lbs"": 10600
+}",8,8,1.0,True
+nvidia/nemotron-3.5-super-vl:free,1.jpg,3,True,,2.113138732001971,1370,120,0.0,stop,"{
+  ""manufacturer"": ""USCC"",
+  ""model"": ""PRS2-3"",
+  ""sling_type"": ""POLYESTER ROUND SLING"",
+  ""serial_number"": ""1121346-14-13"",
+  ""mfg_date"": ""5/28/25"",
+  ""wll_vertical_lbs"": 5300,
+  ""wll_choker_lbs"": 4200,
+  ""wll_basket_lbs"": 10600
+}",8,8,1.0,True
+nvidia/nemotron-3.5-super-vl:free,2.jpg,1,True,,4.101149619000353,1216,143,0.0,stop,"{
+  ""manufacturer"": ""UNIROPE SLINGMAX"",
+  ""code"": ""UPD-L 2300"",
+  ""material"": ""Polyester"",
+  ""length"": 6,
+  ""design_factor"": ""5:1"",
+  ""vertical_lbs"": 23000,
+  ""vertical_kgs"": 10430,
+  ""choker_lbs"": 18400,
+  ""choker_kgs"": 8340,
+  ""basket_90_lbs"": 46000,
+  ""basket_90_kgs"": 20860
+}",11,10,0.9090909090909091,False
+nvidia/nemotron-3.5-super-vl:free,2.jpg,2,True,,2.2203050589996565,1216,143,0.0,stop,"{
+  ""manufacturer"": ""UNIROPE SLINGMAX"",
+  ""code"": ""UPD-L 2300"",
+  ""material"": ""Polyester"",
+  ""length"": 6,
+  ""design_factor"": ""5:1"",
+  ""vertical_lbs"": 23000,
+  ""vertical_kgs"": 10430,
+  ""choker_lbs"": 18400,
+  ""choker_kgs"": 8340,
+  ""basket_90_lbs"": 46000,
+  ""basket_90_kgs"": 20860
+}",11,10,0.9090909090909091,False
+nvidia/nemotron-3.5-super-vl:free,2.jpg,3,True,,2.007603485002619,1216,143,0.0,stop,"{
+  ""manufacturer"": ""UNIROPE SLINGMAX"",
+  ""code"": ""UPD-L 2300"",
+  ""material"": ""Polyester"",
+  ""length"": 6,
+  ""design_factor"": ""5:1"",
+  ""vertical_lbs"": 23000,
+  ""vertical_kgs"": 10430,
+  ""choker_lbs"": 18400,
+  ""choker_kgs"": 8340,
+  ""basket_90_lbs"": 46000,
+  ""basket_90_kgs"": 20860
+}",11,10,0.9090909090909091,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,1,True,,1.1340024269993592,468,106,0.0,stop,"{
+  ""brand"": ""WEMASTER"",
+  ""material"": ""POLYESTER"",
+  ""width_in"": 4,
+  ""length_ft"": 4,
+  ""type"": ""3 EE1-6040"",
+  ""serial_number"": ""S.N 5131"",
+  ""vertical_lbs"": 6400,
+  ""choker_lbs"": 5000,
+  ""basket_lbs"": 12800
+}",9,6,0.6666666666666666,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,2,True,,1.2029815829992003,468,108,0.0,stop,"{
+  ""brand"": ""WESTMARSTER"",
+  ""material"": ""POLYESTER"",
+  ""width_in"": 4,
+  ""length_ft"": 4,
+  ""type"": ""3 EE1-6040"",
+  ""serial_number"": ""S.N 5131"",
+  ""vertical_lbs"": 6400,
+  ""choker_lbs"": 5000,
+  ""basket_lbs"": 12800
+}",9,6,0.6666666666666666,False
+nvidia/nemotron-3.5-super-vl:free,3.jpg,3,True,,1.0512767099971825,468,107,0.0,stop,"{
+  ""brand"": ""WEHMASTER"",
+  ""material"": ""POLYESTER"",
+  ""width_in"": 4,
+  ""length_ft"": 4,
+  ""type"": ""3 EE1-6040"",
+  ""serial_number"": ""S.N 5131"",
+  ""vertical_lbs"": 6400,
+  ""choker_lbs"": 5000,
+  ""basket_lbs"": 12800
+}",9,6,0.6666666666666666,False
+nvidia/nemotron-3.5-super-vl:free,4.jpg,1,True,,1.4453947139991214,1347,89,0.0,stop,"{
+  ""brand"": ""PRIME TAGS"",
+  ""grade"": ""CHAIN SLING"",
+  ""chain_size"": ""10MM"",
+  ""date_in_service"": ""13/08/2025"",
+  ""serial_number"": ""CS10001"",
+  ""wll_left_t"": 3.2,
+  ""wll_right_t"": 2.5
+}",7,7,1.0,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,2,True,,1.617728821001947,1347,89,0.0,stop,"{
+  ""brand"": ""PRIME TAGS"",
+  ""grade"": ""CHAIN SLING"",
+  ""chain_size"": ""10MM"",
+  ""date_in_service"": ""13/08/2025"",
+  ""serial_number"": ""CS10001"",
+  ""wll_left_t"": 3.2,
+  ""wll_right_t"": 2.5
+}",7,7,1.0,True
+nvidia/nemotron-3.5-super-vl:free,4.jpg,3,True,,1.1051417189992208,1347,89,0.0,stop,"{
+  ""brand"": ""PRIME TAGS"",
+  ""grade"": ""CHAIN SLING"",
+  ""chain_size"": ""10MM"",
+  ""date_in_service"": ""13/08/2025"",
+  ""serial_number"": ""CS10001"",
+  ""wll_left_t"": 3.2,
+  ""wll_right_t"": 2.5
+}",7,7,1.0,True
+nvidia/nemotron-3.5-super-vl:free,5.jpg,1,True,,1.9894103589977021,750,126,0.0,stop,"{
+  ""brand"": ""MAZZELLA"",
+  ""sling_type"": ""7-PART SLING"",
+  ""component_dia"": ""1/8\"""",
+  ""finished_dia"": ""3/8\"""",
+  ""length"": ""8"",
+  ""vertical_tons"": ""1.2"",
+  ""choker_tons"": ""1.0"",
+  ""basket_90_tons"": ""2.4"",
+  ""date"": ""03-20"",
+  ""serial_number"": ""38P3861-9-034""
+}",10,8,0.8,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,2,True,,1.9392800169989641,750,126,0.0,stop,"{
+  ""brand"": ""MAZZELLA"",
+  ""sling_type"": ""7-PART SLING"",
+  ""component_dia"": ""1/8\"""",
+  ""finished_dia"": ""3/8\"""",
+  ""length"": ""8"",
+  ""vertical_tons"": ""1.2"",
+  ""choker_tons"": ""1.0"",
+  ""basket_90_tons"": ""2.4"",
+  ""date"": ""03-20"",
+  ""serial_number"": ""38P3861-9-034""
+}",10,8,0.8,False
+nvidia/nemotron-3.5-super-vl:free,5.jpg,3,True,,2.591471908999665,750,126,0.0,stop,"{
+  ""brand"": ""MAZZELLA"",
+  ""sling_type"": ""7-PART SLING"",
+  ""component_dia"": ""1/8\"""",
+  ""finished_dia"": ""3/8\"""",
+  ""length"": ""8"",
+  ""vertical_tons"": ""1.2"",
+  ""choker_tons"": ""1.0"",
+  ""basket_90_tons"": ""2.4"",
+  ""date"": ""03-20"",
+  ""serial_number"": ""38P3861-9-034""
+}",10,8,0.8,False
+deepseek/deepseek-v4.1-flash-1017,1.jpg,1,True,,1.0719248879977386,922,80,0.0001126224,stop,"{""manufacturer"":""USCC"",""model"":""PRS2-3"",""sling_type"":""POLYESTER ROUND SLING"",""serial_number"":""1121346-14-13"",""mfg_date"":""5/28/25"",""wll_vertical_lbs"":""5300"",""wll_choker_lbs"":""4200"",""wll_basket_lbs"":""10600""}",8,8,1.0,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,2,True,,1.0364768969993747,922,80,4.875552e-05,stop,"{""manufacturer"":""USCC"",""model"":""PRS2-3"",""sling_type"":""POLYESTER ROUND SLING"",""serial_number"":""1121346-14-13"",""mfg_date"":""5/28/25"",""wll_vertical_lbs"":""5300"",""wll_choker_lbs"":""4200"",""wll_basket_lbs"":""10600""}",8,8,1.0,True
+deepseek/deepseek-v4.1-flash-1017,1.jpg,3,True,,0.9028600120000192,922,80,4.875552e-05,stop,"{""manufacturer"":""USCC"",""model"":""PRS2-3"",""sling_type"":""POLYESTER ROUND SLING"",""serial_number"":""1121346-14-13"",""mfg_date"":""5/28/25"",""wll_vertical_lbs"":""5300"",""wll_choker_lbs"":""4200"",""wll_basket_lbs"":""10600""}",8,8,1.0,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,1,True,,1.0424387569983082,808,85,5.132556e-05,stop,"{""manufacturer"":""UNIROPE"",""code"":""UPD-L 2300"",""material"":""Polyester"",""length"":6,""design_factor"":""5:1"",""vertical_lbs"":23000,""vertical_kgs"":10430,""choker_lbs"":18400,""choker_kgs"":8340,""basket_90_lbs"":46000,""basket_90_kgs"":20860}",11,11,1.0,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,2,True,,1.100960080002551,808,85,5.132556e-05,stop,"{""manufacturer"":""UNIROPE"",""code"":""UPD-L 2300"",""material"":""Polyester"",""length"":6,""design_factor"":""5:1"",""vertical_lbs"":23000,""vertical_kgs"":10430,""choker_lbs"":18400,""choker_kgs"":8340,""basket_90_lbs"":46000,""basket_90_kgs"":20860}",11,11,1.0,True
+deepseek/deepseek-v4.1-flash-1017,2.jpg,3,True,,1.0370811740031058,808,85,5.132556e-05,stop,"{""manufacturer"":""UNIROPE"",""code"":""UPD-L 2300"",""material"":""Polyester"",""length"":6,""design_factor"":""5:1"",""vertical_lbs"":23000,""vertical_kgs"":10430,""choker_lbs"":18400,""choker_kgs"":8340,""basket_90_lbs"":46000,""basket_90_kgs"":20860}",11,11,1.0,True
+deepseek/deepseek-v4.1-flash-1017,3.jpg,1,True,,7.4920514520017605,385,67,9.6232752e-05,stop,"{""brand"":""WEINBRENNER"",""material"":""POLYESTER"",""width_in"":4,""length_ft"":4,""type"":""3 EE1-8040"",""serial_number"":""35-1"",""vertical_lbs"":6400,""choker_lbs"":5000,""basket_lbs"":12800}",9,6,0.6666666666666666,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,2,True,,7.5055053569994925,385,67,9.6232752e-05,stop,"{""brand"":""WEINBRENNER"",""material"":""POLYESTER"",""width_in"":4,""length_ft"":4,""type"":""3 EE1-8040"",""serial_number"":""35-1"",""vertical_lbs"":6400,""choker_lbs"":5000,""basket_lbs"":12800}",9,6,0.6666666666666666,False
+deepseek/deepseek-v4.1-flash-1017,3.jpg,3,True,,6.995112925000285,385,67,9.6232752e-05,stop,"{""brand"":""WEINBRENNER"",""material"":""POLYESTER"",""width_in"":4,""length_ft"":4,""type"":""3 EE1-8040"",""serial_number"":""35-1"",""vertical_lbs"":6400,""choker_lbs"":5000,""basket_lbs"":12800}",9,6,0.6666666666666666,False
+deepseek/deepseek-v4.1-flash-1017,4.jpg,1,True,,0.9905371880013263,885,58,8.230167e-05,stop,"{""brand"":""PRIME TAGS"",""grade"":""CHAIN SLING"",""chain_size"":""10MM"",""date_in_service"":""13/08/2025"",""serial_number"":""CS10001"",""wll_left_t"":3.2,""wll_right_t"":2.5}",7,7,1.0,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,2,True,,1.1946085130002757,885,58,8.230167e-05,stop,"{""brand"":""PRIME TAGS"",""grade"":""CHAIN SLING"",""chain_size"":""10MM"",""date_in_service"":""13/08/2025"",""serial_number"":""CS10001"",""wll_left_t"":3.2,""wll_right_t"":2.5}",7,7,1.0,True
+deepseek/deepseek-v4.1-flash-1017,4.jpg,3,True,,1.2123854519995803,885,58,8.230167e-05,stop,"{""brand"":""PRIME TAGS"",""grade"":""CHAIN SLING"",""chain_size"":""10MM"",""date_in_service"":""13/08/2025"",""serial_number"":""CS10001"",""wll_left_t"":3.2,""wll_right_t"":2.5}",7,7,1.0,True
+deepseek/deepseek-v4.1-flash-1017,5.jpg,1,True,,0.9302058940011193,559,84,0.000135542484,stop,"{""brand"":""MAZZELLA"",""sling_type"":""7-PART SLING"",""component_dia"":""1/8"",""finished_dia"":""3/8"",""length"":null,""vertical_tons"":1.2,""choker_tons"":1.0,""basket_90_tons"":2.4,""date"":""08-20"",""serial_number"":""30P30661S1634""}",10,8,0.8,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,2,True,,1.0052916960012226,559,87,0.000138037284,stop,"{""brand"":""MAZZELLA"",""sling_type"":""7-PART SLING"",""component_dia"":""1/8"",""finished_dia"":""3/8"",""length"":null,""vertical_tons"":1.2,""choker_tons"":1.0,""basket_90_tons"":2.4,""date"":""08-20"",""serial_number"":""30P30661-3-1-64""}",10,8,0.8,False
+deepseek/deepseek-v4.1-flash-1017,5.jpg,3,True,,1.0065131119990838,559,87,0.000138037284,stop,"{""brand"":""MAZZELLA"",""sling_type"":""7-PART SLING"",""component_dia"":""1/8"",""finished_dia"":""3/8"",""length"":null,""vertical_tons"":1.2,""choker_tons"":1.0,""basket_90_tons"":2.4,""date"":""08-20"",""serial_number"":""30P30661-3-1-64""}",10,8,0.8,False
+anthropic/claude-haiku-5.5,1.jpg,1,True,,1.557026811002288,1824,122,0.000240966,stop,"{""manufacturer"": ""USCC"", ""model"": ""PRS2-3"", ""sling_type"": ""POLYESTER ROUND SLING"", ""serial_number"": ""1121346-14-13"", ""mfg_date"": ""5/28/25"", ""wll_vertical_lbs"": 5300, ""wll_choker_lbs"": 4200, ""wll_basket_lbs"": 10600}",8,8,1.0,True
+anthropic/claude-haiku-5.5,1.jpg,2,True,,2.584058766999078,1824,122,0.000240966,stop,"{""manufacturer"": ""USCC"", ""model"": ""PRS2-3"", ""sling_type"": ""POLYESTER ROUND SLING"", ""serial_number"": ""1121346-14-13"", ""mfg_date"": ""5/28/25"", ""wll_vertical_lbs"": 5300, ""wll_choker_lbs"": 4200, ""wll_basket_lbs"": 10600}",8,8,1.0,True
+anthropic/claude-haiku-5.5,1.jpg,3,True,,2.2567383120003797,1824,122,0.000240966,stop,"{""manufacturer"": ""USCC"", ""model"": ""PRS2-3"", ""sling_type"": ""POLYESTER ROUND SLING"", ""serial_number"": ""1121346-14-13"", ""mfg_date"": ""5/28/25"", ""wll_vertical_lbs"": 5300, ""wll_choker_lbs"": 4200, ""wll_basket_lbs"": 10600}",8,8,1.0,True
+anthropic/claude-haiku-5.5,2.jpg,1,True,,1.7487548280005285,1560,135,0.000221265,stop,"{""manufacturer"": ""UNIROPE"", ""code"": ""UPD-L 2300"", ""material"": ""Polyester"", ""length"": 6, ""design_factor"": ""5:1"", ""vertical_lbs"": 23000, ""vertical_kgs"": 10430, ""choker_lbs"": 18400, ""choker_kgs"": 8340, ""basket_90_lbs"": 46000, ""basket_90_kgs"": 20860}",11,11,1.0,True
+anthropic/claude-haiku-5.5,2.jpg,2,True,,2.22710764400108,1560,135,0.000221265,stop,"{""manufacturer"": ""UNIROPE"", ""code"": ""UPD-L 2300"", ""material"": ""Polyester"", ""length"": 6, ""design_factor"": ""5:1"", ""vertical_lbs"": 23000, ""vertical_kgs"": 10430, ""choker_lbs"": 18400, ""choker_kgs"": 8340, ""basket_90_lbs"": 46000, ""basket_90_kgs"": 20860}",11,11,1.0,True
+anthropic/claude-haiku-5.5,2.jpg,3,True,,1.7723404829994251,1560,135,0.000221265,stop,"{""manufacturer"": ""UNIROPE"", ""code"": ""UPD-L 2300"", ""material"": ""Polyester"", ""length"": 6, ""design_factor"": ""5:1"", ""vertical_lbs"": 23000, ""vertical_kgs"": 10430, ""choker_lbs"": 18400, ""choker_kgs"": 8340, ""basket_90_lbs"": 46000, ""basket_90_kgs"": 20860}",11,11,1.0,True
+anthropic/claude-haiku-5.5,3.jpg,1,True,,1.3983322019994375,609,104,0.000111771,stop,"{""brand"": ""Werimaster"", ""material"": ""POLYESTER"", ""width_in"": 4, ""length_ft"": 4, ""type"": ""3 EE1-804D"", ""serial_number"": ""5331-1"", ""vertical_lbs"": 6400, ""choker_lbs"": 5000, ""basket_lbs"": 12800}",9,7,0.7777777777777778,False
+anthropic/claude-haiku-5.5,3.jpg,2,True,,1.3558117600005062,609,106,0.000112761,stop,"{""brand"": ""Werma-Ster"", ""material"": ""POLYESTER"", ""width_in"": 4, ""length_ft"": 4, ""type"": ""3 EE1-804D"", ""serial_number"": ""5301-1"", ""vertical_lbs"": 6400, ""choker_lbs"": 5000, ""basket_lbs"": 12800}",9,7,0.7777777777777778,False
+anthropic/claude-haiku-5.5,3.jpg,3,True,,1.5874542409983405,609,105,0.000112266,stop,"{""brand"": ""Wesmaster"", ""material"": ""POLYESTER"", ""width_in"": 4, ""length_ft"": 4, ""type"": ""3 EE1-804D"", ""serial_number"": ""5303-1"", ""vertical_lbs"": 6400, ""choker_lbs"": 5000, ""basket_lbs"": 12800}",9,7,0.7777777777777778,False
+anthropic/claude-haiku-5.5,4.jpg,1,True,,2.1094510260008974,1789,92,0.000222651,stop,"{""brand"": ""PRIME TAGS"", ""grade"": ""CHAIN SLING"", ""chain_size"": ""10MM"", ""date_in_service"": ""13/08/2025"", ""serial_number"": ""CS10001"", ""wll_left_t"": ""3"", ""wll_right_t"": ""2""}",7,5,0.7142857142857143,False
+anthropic/claude-haiku-5.5,4.jpg,2,True,,1.430175130997668,1789,96,0.000224631,stop,"{""brand"": ""PRIME TAGS"", ""grade"": ""CHAIN SLING"", ""chain_size"": ""10MM"", ""date_in_service"": ""13/08/2025"", ""serial_number"": ""CS10001"", ""wll_left_t"": ""3.2"", ""wll_right_t"": ""2.5""}",7,7,1.0,True
+anthropic/claude-haiku-5.5,4.jpg,3,True,,1.3429474369986565,1789,92,0.000222651,stop,"{""brand"": ""PRIME TAGS"", ""grade"": ""CHAIN SLING"", ""chain_size"": ""10MM"", ""date_in_service"": ""13/08/2025"", ""serial_number"": ""CS10001"", ""wll_left_t"": ""3"", ""wll_right_t"": ""2""}",7,5,0.7142857142857143,False
+anthropic/claude-haiku-5.5,5.jpg,1,True,,1.6038718039999367,999,122,0.000159291,stop,"{""brand"": ""MAZZELLA"", ""sling_type"": ""7-PART SLING"", ""component_dia"": ""1/8"", ""finished_dia"": ""3/8"", ""length"": ""8"", ""vertical_tons"": ""1.2"", ""choker_tons"": ""1.0"", ""basket_90_tons"": ""2.4"", ""date"": ""08-20"", ""serial_number"": ""38P3861946654""}",10,9,0.9,False
+anthropic/claude-haiku-5.5,5.jpg,2,True,,1.9373924659994373,999,121,0.000158796,stop,"{""brand"": ""MAZZELLA"", ""sling_type"": ""7-PART SLING"", ""component_dia"": ""1/8"", ""finished_dia"": ""3/8"", ""length"": ""8"", ""vertical_tons"": ""1.2"", ""choker_tons"": ""1.0"", ""basket_90_tons"": ""2.4"", ""date"": ""08-20"", ""serial_number"": ""38P36614964""}",10,9,0.9,False
+anthropic/claude-haiku-5.5,5.jpg,3,True,,1.568507749998389,999,122,0.000159291,stop,"{""brand"": ""MAZZELLA"", ""sling_type"": ""7-PART SLING"", ""component_dia"": ""1/8"", ""finished_dia"": ""3/8"", ""length"": ""8"", ""vertical_tons"": ""1.2"", ""choker_tons"": ""1.0"", ""basket_90_tons"": ""2.4"", ""date"": ""08-20"", ""serial_number"": ""38P3861983654""}",10,9,0.9,False
+openai/gpt-6-luna,1.jpg,1,True,,1.9744493759972102,1585,80,0.0002356695,stop,"{""manufacturer"":""US Cargo Control"",""model"":""PRS2-3"",""sling_type"":""POLYESTER ROUND SLING"",""serial_number"":""11721346-14-13"",""mfg_date"":""5/28/25"",""wll_vertical_lbs"":5300,""wll_choker_lbs"":4200,""wll_basket_lbs"":10600}",8,6,0.75,False
+openai/gpt-6-luna,1.jpg,2,True,,2.4540646800014656,1585,80,5.55588e-05,stop,"{""manufacturer"":""US Cargo Control"",""model"":""PRS2-3"",""sling_type"":""POLYESTER ROUND SLING"",""serial_number"":""11721346-14-13"",""mfg_date"":""5/28/25"",""wll_vertical_lbs"":5300,""wll_choker_lbs"":4200,""wll_basket_lbs"":10600}",8,6,0.75,False
+openai/gpt-6-luna,1.jpg,3,True,,2.976568486999895,1585,80,5.55588e-05,stop,"{""manufacturer"":""US Cargo Control"",""model"":""PRS2-3"",""sling_type"":""POLYESTER ROUND SLING"",""serial_number"":""11721346-14-13"",""mfg_date"":""5/28/25"",""wll_vertical_lbs"":5300,""wll_choker_lbs"":4200,""wll_basket_lbs"":10600}",8,6,0.75,False
+openai/gpt-6-luna,2.jpg,1,True,,3.086653998001566,1386,84,5.55687e-05,stop,"{""manufacturer"":""UNIROPE"",""code"":""UPD-L 2300"",""material"":""Polyester"",""length"":6,""design_factor"":""5:1"",""vertical_lbs"":23000,""vertical_kgs"":10430,""choker_lbs"":18400,""choker_kgs"":8340,""basket_90_lbs"":46000,""basket_90_kgs"":20860}",11,11,1.0,True
+openai/gpt-6-luna,2.jpg,2,True,,3.039688903001661,1386,84,5.55687e-05,stop,"{""manufacturer"":""UNIROPE"",""code"":""UPD-L 2300"",""material"":""Polyester"",""length"":6,""design_factor"":""5:1"",""vertical_lbs"":23000,""vertical_kgs"":10430,""choker_lbs"":18400,""choker_kgs"":8340,""basket_90_lbs"":46000,""basket_90_kgs"":20860}",11,11,1.0,True
+openai/gpt-6-luna,2.jpg,3,True,,2.6993129669972404,1386,84,5.55687e-05,stop,"{""manufacturer"":""UNIROPE"",""code"":""UPD-L 2300"",""material"":""Polyester"",""length"":6,""design_factor"":""5:1"",""vertical_lbs"":23000,""vertical_kgs"":10430,""choker_lbs"":18400,""choker_kgs"":8340,""basket_90_lbs"":46000,""basket_90_kgs"":20860}",11,11,1.0,True
+openai/gpt-6-luna,3.jpg,1,True,,2.222668217997125,490,68,8.217e-05,stop,"{""brand"":""LIFT-ALL"",""material"":""POLYESTER"",""width_in"":4,""length_ft"":4,""type"":""EE1-8040"",""serial_number"":""S.N. 531"",""vertical_lbs"":6400,""choker_lbs"":5000,""basket_lbs"":12800}",9,6,0.6666666666666666,False
+openai/gpt-6-luna,3.jpg,2,True,,1.7339138580027793,490,68,8.217e-05,stop,"{""brand"":""LIFT-ALL"",""material"":""POLYESTER"",""width_in"":4,""length_ft"":4,""type"":""EE1-804"",""serial_number"":""S.N. 5315"",""vertical_lbs"":6400,""choker_lbs"":5000,""basket_lbs"":12800}",9,6,0.6666666666666666,False
+openai/gpt-6-luna,3.jpg,3,True,,1.7792299240027205,490,69,8.2665e-05,stop,"{""brand"":""LIFT-ALL"",""material"":""POLYESTER"",""width_in"":4,""length_ft"":4,""type"":""EE1-8040"",""serial_number"":""S.N. 5356"",""vertical_lbs"":6400,""choker_lbs"":5000,""basket_lbs"":12800}",9,6,0.6666666666666666,False
+openai/gpt-6-luna,4.jpg,1,True,,1.7889400179992663,1560,60,4.54113e-05,stop,"{""brand"":""PRIME TAGS"",""grade"":""CHAIN SLING"",""chain_size"":""10MM"",""date_in_service"":""13/08/2025"",""serial_number"":""CS10001"",""wll_left_t"":""3.2"",""wll_right_t"":""2.5""}",7,7,1.0,True
+openai/gpt-6-luna,4.jpg,2,True,,1.3770290950014896,1560,60,4.54113e-05,stop,"{""brand"":""PRIME TAGS"",""grade"":""CHAIN SLING"",""chain_size"":""10MM"",""date_in_service"":""13/08/2025"",""serial_number"":""CS10001"",""wll_left_t"":""3.2"",""wll_right_t"":""2.5""}",7,7,1.0,True
+openai/gpt-6-luna,4.jpg,3,True,,1.8262845049976022,1560,60,4.54113e-05,stop,"{""brand"":""PRIME TAGS"",""grade"":""CHAIN SLING"",""chain_size"":""10MM"",""date_in_service"":""13/08/2025"",""serial_number"":""CS10001"",""wll_left_t"":""3.2"",""wll_right_t"":""2.5""}",7,7,1.0,True
+openai/gpt-6-luna,5.jpg,1,True,,3.6758332639983564,824,79,0.000120681,stop,"{""brand"":""MAZZELLA"",""sling_type"":""7-PART SLING"",""component_dia"":""1/8"",""finished_dia"":""3/8"",""length"":""8"",""vertical_tons"":1.2,""choker_tons"":1.0,""basket_90_tons"":2.4,""date"":""06-20"",""serial_number"":""""}",10,8,0.8,False
+openai/gpt-6-luna,5.jpg,2,True,,2.4039231520000612,824,73,0.000117711,stop,"{""brand"":""MAZZELLA"",""sling_type"":""7-PART SLING"",""component_dia"":""1/8"",""finished_dia"":""3/8"",""length"":""3"",""vertical_tons"":12,""choker_tons"":10,""basket_90_tons"":24,""date"":""08-20"",""serial_number"":""""}",10,5,0.5,False
+openai/gpt-6-luna,5.jpg,3,True,,2.2428713910012448,824,80,0.000121176,stop,"{""brand"":""MAZZELLA"",""sling_type"":""7-PART SLING"",""component_dia"":""1/8"",""finished_dia"":""3/8"",""length"":""8"",""vertical_tons"":1.2,""choker_tons"":1.0,""basket_90_tons"":2.4,""date"":""FEB-20"",""serial_number"":null}",10,8,0.8,False

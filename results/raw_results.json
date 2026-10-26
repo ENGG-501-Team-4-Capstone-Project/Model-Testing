@@ -1,0 +1,3542 @@
+[
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "1.jpg",
+    "run": 1,
+    "text": "{\n  \"manufacturer\": \"USCC\",\n  \"model\": \"PRS2-3\",\n  \"sling_type\": \"POLYESTER ROUND SLING\",\n  \"serial_number\": \"1121346-14-13\",\n  \"mfg_date\": \"5/28/25\",\n  \"wll_vertical_lbs\": 5300,\n  \"wll_choker_lbs\": 4200,\n  \"wll_basket_lbs\": 10600\n}",
+    "latency_s": 2.7339237019987195,
+    "prompt_tokens": 1370,
+    "completion_tokens": 120,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "1.jpg",
+    "run": 2,
+    "text": "{\n  \"manufacturer\": \"USCC\",\n  \"model\": \"PRS2-3\",\n  \"sling_type\": \"POLYESTER ROUND SLING\",\n  \"serial_number\": \"1121346-14-13\",\n  \"mfg_date\": \"5/28/25\",\n  \"wll_vertical_lbs\": 5300,\n  \"wll_choker_lbs\": 4200,\n  \"wll_basket_lbs\": 10600\n}",
+    "latency_s": 2.2804108430027554,
+    "prompt_tokens": 1370,
+    "completion_tokens": 120,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "1.jpg",
+    "run": 3,
+    "text": "{\n  \"manufacturer\": \"USCC\",\n  \"model\": \"PRS2-3\",\n  \"sling_type\": \"POLYESTER ROUND SLING\",\n  \"serial_number\": \"1121346-14-13\",\n  \"mfg_date\": \"5/28/25\",\n  \"wll_vertical_lbs\": 5300,\n  \"wll_choker_lbs\": 4200,\n  \"wll_basket_lbs\": 10600\n}",
+    "latency_s": 2.113138732001971,
+    "prompt_tokens": 1370,
+    "completion_tokens": 120,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "2.jpg",
+    "run": 1,
+    "text": "{\n  \"manufacturer\": \"UNIROPE SLINGMAX\",\n  \"code\": \"UPD-L 2300\",\n  \"material\": \"Polyester\",\n  \"length\": 6,\n  \"design_factor\": \"5:1\",\n  \"vertical_lbs\": 23000,\n  \"vertical_kgs\": 10430,\n  \"choker_lbs\": 18400,\n  \"choker_kgs\": 8340,\n  \"basket_90_lbs\": 46000,\n  \"basket_90_kgs\": 20860\n}",
+    "latency_s": 4.101149619000353,
+    "prompt_tokens": 1216,
+    "completion_tokens": 143,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE SLINGMAX",
+        "correct": false
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "2.jpg",
+    "run": 2,
+    "text": "{\n  \"manufacturer\": \"UNIROPE SLINGMAX\",\n  \"code\": \"UPD-L 2300\",\n  \"material\": \"Polyester\",\n  \"length\": 6,\n  \"design_factor\": \"5:1\",\n  \"vertical_lbs\": 23000,\n  \"vertical_kgs\": 10430,\n  \"choker_lbs\": 18400,\n  \"choker_kgs\": 8340,\n  \"basket_90_lbs\": 46000,\n  \"basket_90_kgs\": 20860\n}",
+    "latency_s": 2.2203050589996565,
+    "prompt_tokens": 1216,
+    "completion_tokens": 143,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE SLINGMAX",
+        "correct": false
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "2.jpg",
+    "run": 3,
+    "text": "{\n  \"manufacturer\": \"UNIROPE SLINGMAX\",\n  \"code\": \"UPD-L 2300\",\n  \"material\": \"Polyester\",\n  \"length\": 6,\n  \"design_factor\": \"5:1\",\n  \"vertical_lbs\": 23000,\n  \"vertical_kgs\": 10430,\n  \"choker_lbs\": 18400,\n  \"choker_kgs\": 8340,\n  \"basket_90_lbs\": 46000,\n  \"basket_90_kgs\": 20860\n}",
+    "latency_s": 2.007603485002619,
+    "prompt_tokens": 1216,
+    "completion_tokens": 143,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE SLINGMAX",
+        "correct": false
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "3.jpg",
+    "run": 1,
+    "text": "{\n  \"brand\": \"WEMASTER\",\n  \"material\": \"POLYESTER\",\n  \"width_in\": 4,\n  \"length_ft\": 4,\n  \"type\": \"3 EE1-6040\",\n  \"serial_number\": \"S.N 5131\",\n  \"vertical_lbs\": 6400,\n  \"choker_lbs\": 5000,\n  \"basket_lbs\": 12800\n}",
+    "latency_s": 1.1340024269993592,
+    "prompt_tokens": 468,
+    "completion_tokens": 106,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "WEMASTER",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-6040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "S.N 5131",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "3.jpg",
+    "run": 2,
+    "text": "{\n  \"brand\": \"WESTMARSTER\",\n  \"material\": \"POLYESTER\",\n  \"width_in\": 4,\n  \"length_ft\": 4,\n  \"type\": \"3 EE1-6040\",\n  \"serial_number\": \"S.N 5131\",\n  \"vertical_lbs\": 6400,\n  \"choker_lbs\": 5000,\n  \"basket_lbs\": 12800\n}",
+    "latency_s": 1.2029815829992003,
+    "prompt_tokens": 468,
+    "completion_tokens": 108,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "WESTMARSTER",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-6040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "S.N 5131",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "3.jpg",
+    "run": 3,
+    "text": "{\n  \"brand\": \"WEHMASTER\",\n  \"material\": \"POLYESTER\",\n  \"width_in\": 4,\n  \"length_ft\": 4,\n  \"type\": \"3 EE1-6040\",\n  \"serial_number\": \"S.N 5131\",\n  \"vertical_lbs\": 6400,\n  \"choker_lbs\": 5000,\n  \"basket_lbs\": 12800\n}",
+    "latency_s": 1.0512767099971825,
+    "prompt_tokens": 468,
+    "completion_tokens": 107,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "WEHMASTER",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-6040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "S.N 5131",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "4.jpg",
+    "run": 1,
+    "text": "{\n  \"brand\": \"PRIME TAGS\",\n  \"grade\": \"CHAIN SLING\",\n  \"chain_size\": \"10MM\",\n  \"date_in_service\": \"13/08/2025\",\n  \"serial_number\": \"CS10001\",\n  \"wll_left_t\": 3.2,\n  \"wll_right_t\": 2.5\n}",
+    "latency_s": 1.4453947139991214,
+    "prompt_tokens": 1347,
+    "completion_tokens": 89,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": 3.2,
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": 2.5,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "4.jpg",
+    "run": 2,
+    "text": "{\n  \"brand\": \"PRIME TAGS\",\n  \"grade\": \"CHAIN SLING\",\n  \"chain_size\": \"10MM\",\n  \"date_in_service\": \"13/08/2025\",\n  \"serial_number\": \"CS10001\",\n  \"wll_left_t\": 3.2,\n  \"wll_right_t\": 2.5\n}",
+    "latency_s": 1.617728821001947,
+    "prompt_tokens": 1347,
+    "completion_tokens": 89,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": 3.2,
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": 2.5,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "4.jpg",
+    "run": 3,
+    "text": "{\n  \"brand\": \"PRIME TAGS\",\n  \"grade\": \"CHAIN SLING\",\n  \"chain_size\": \"10MM\",\n  \"date_in_service\": \"13/08/2025\",\n  \"serial_number\": \"CS10001\",\n  \"wll_left_t\": 3.2,\n  \"wll_right_t\": 2.5\n}",
+    "latency_s": 1.1051417189992208,
+    "prompt_tokens": 1347,
+    "completion_tokens": 89,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": 3.2,
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": 2.5,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "5.jpg",
+    "run": 1,
+    "text": "{\n  \"brand\": \"MAZZELLA\",\n  \"sling_type\": \"7-PART SLING\",\n  \"component_dia\": \"1/8\\\"\",\n  \"finished_dia\": \"3/8\\\"\",\n  \"length\": \"8\",\n  \"vertical_tons\": \"1.2\",\n  \"choker_tons\": \"1.0\",\n  \"basket_90_tons\": \"2.4\",\n  \"date\": \"03-20\",\n  \"serial_number\": \"38P3861-9-034\"\n}",
+    "latency_s": 1.9894103589977021,
+    "prompt_tokens": 750,
+    "completion_tokens": 126,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8\"",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8\"",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": "1.2",
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": "1.0",
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": "2.4",
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "03-20",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "38P3861-9-034",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "5.jpg",
+    "run": 2,
+    "text": "{\n  \"brand\": \"MAZZELLA\",\n  \"sling_type\": \"7-PART SLING\",\n  \"component_dia\": \"1/8\\\"\",\n  \"finished_dia\": \"3/8\\\"\",\n  \"length\": \"8\",\n  \"vertical_tons\": \"1.2\",\n  \"choker_tons\": \"1.0\",\n  \"basket_90_tons\": \"2.4\",\n  \"date\": \"03-20\",\n  \"serial_number\": \"38P3861-9-034\"\n}",
+    "latency_s": 1.9392800169989641,
+    "prompt_tokens": 750,
+    "completion_tokens": 126,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8\"",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8\"",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": "1.2",
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": "1.0",
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": "2.4",
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "03-20",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "38P3861-9-034",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "nvidia/nemotron-3.5-super-vl:free",
+    "image": "5.jpg",
+    "run": 3,
+    "text": "{\n  \"brand\": \"MAZZELLA\",\n  \"sling_type\": \"7-PART SLING\",\n  \"component_dia\": \"1/8\\\"\",\n  \"finished_dia\": \"3/8\\\"\",\n  \"length\": \"8\",\n  \"vertical_tons\": \"1.2\",\n  \"choker_tons\": \"1.0\",\n  \"basket_90_tons\": \"2.4\",\n  \"date\": \"03-20\",\n  \"serial_number\": \"38P3861-9-034\"\n}",
+    "latency_s": 2.591471908999665,
+    "prompt_tokens": 750,
+    "completion_tokens": 126,
+    "cost_usd": 0.0,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8\"",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8\"",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": "1.2",
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": "1.0",
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": "2.4",
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "03-20",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "38P3861-9-034",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "1.jpg",
+    "run": 1,
+    "text": "{\"manufacturer\":\"USCC\",\"model\":\"PRS2-3\",\"sling_type\":\"POLYESTER ROUND SLING\",\"serial_number\":\"1121346-14-13\",\"mfg_date\":\"5/28/25\",\"wll_vertical_lbs\":\"5300\",\"wll_choker_lbs\":\"4200\",\"wll_basket_lbs\":\"10600\"}",
+    "latency_s": 1.0719248879977386,
+    "prompt_tokens": 922,
+    "completion_tokens": 80,
+    "cost_usd": 0.0001126224,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": "5300",
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": "4200",
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": "10600",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "1.jpg",
+    "run": 2,
+    "text": "{\"manufacturer\":\"USCC\",\"model\":\"PRS2-3\",\"sling_type\":\"POLYESTER ROUND SLING\",\"serial_number\":\"1121346-14-13\",\"mfg_date\":\"5/28/25\",\"wll_vertical_lbs\":\"5300\",\"wll_choker_lbs\":\"4200\",\"wll_basket_lbs\":\"10600\"}",
+    "latency_s": 1.0364768969993747,
+    "prompt_tokens": 922,
+    "completion_tokens": 80,
+    "cost_usd": 4.875552e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": "5300",
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": "4200",
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": "10600",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "1.jpg",
+    "run": 3,
+    "text": "{\"manufacturer\":\"USCC\",\"model\":\"PRS2-3\",\"sling_type\":\"POLYESTER ROUND SLING\",\"serial_number\":\"1121346-14-13\",\"mfg_date\":\"5/28/25\",\"wll_vertical_lbs\":\"5300\",\"wll_choker_lbs\":\"4200\",\"wll_basket_lbs\":\"10600\"}",
+    "latency_s": 0.9028600120000192,
+    "prompt_tokens": 922,
+    "completion_tokens": 80,
+    "cost_usd": 4.875552e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": "5300",
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": "4200",
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": "10600",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "2.jpg",
+    "run": 1,
+    "text": "{\"manufacturer\":\"UNIROPE\",\"code\":\"UPD-L 2300\",\"material\":\"Polyester\",\"length\":6,\"design_factor\":\"5:1\",\"vertical_lbs\":23000,\"vertical_kgs\":10430,\"choker_lbs\":18400,\"choker_kgs\":8340,\"basket_90_lbs\":46000,\"basket_90_kgs\":20860}",
+    "latency_s": 1.0424387569983082,
+    "prompt_tokens": 808,
+    "completion_tokens": 85,
+    "cost_usd": 5.132556e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "2.jpg",
+    "run": 2,
+    "text": "{\"manufacturer\":\"UNIROPE\",\"code\":\"UPD-L 2300\",\"material\":\"Polyester\",\"length\":6,\"design_factor\":\"5:1\",\"vertical_lbs\":23000,\"vertical_kgs\":10430,\"choker_lbs\":18400,\"choker_kgs\":8340,\"basket_90_lbs\":46000,\"basket_90_kgs\":20860}",
+    "latency_s": 1.100960080002551,
+    "prompt_tokens": 808,
+    "completion_tokens": 85,
+    "cost_usd": 5.132556e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "2.jpg",
+    "run": 3,
+    "text": "{\"manufacturer\":\"UNIROPE\",\"code\":\"UPD-L 2300\",\"material\":\"Polyester\",\"length\":6,\"design_factor\":\"5:1\",\"vertical_lbs\":23000,\"vertical_kgs\":10430,\"choker_lbs\":18400,\"choker_kgs\":8340,\"basket_90_lbs\":46000,\"basket_90_kgs\":20860}",
+    "latency_s": 1.0370811740031058,
+    "prompt_tokens": 808,
+    "completion_tokens": 85,
+    "cost_usd": 5.132556e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "3.jpg",
+    "run": 1,
+    "text": "{\"brand\":\"WEINBRENNER\",\"material\":\"POLYESTER\",\"width_in\":4,\"length_ft\":4,\"type\":\"3 EE1-8040\",\"serial_number\":\"35-1\",\"vertical_lbs\":6400,\"choker_lbs\":5000,\"basket_lbs\":12800}",
+    "latency_s": 7.4920514520017605,
+    "prompt_tokens": 385,
+    "completion_tokens": 67,
+    "cost_usd": 9.6232752e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "WEINBRENNER",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-8040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "35-1",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "3.jpg",
+    "run": 2,
+    "text": "{\"brand\":\"WEINBRENNER\",\"material\":\"POLYESTER\",\"width_in\":4,\"length_ft\":4,\"type\":\"3 EE1-8040\",\"serial_number\":\"35-1\",\"vertical_lbs\":6400,\"choker_lbs\":5000,\"basket_lbs\":12800}",
+    "latency_s": 7.5055053569994925,
+    "prompt_tokens": 385,
+    "completion_tokens": 67,
+    "cost_usd": 9.6232752e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "WEINBRENNER",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-8040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "35-1",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "3.jpg",
+    "run": 3,
+    "text": "{\"brand\":\"WEINBRENNER\",\"material\":\"POLYESTER\",\"width_in\":4,\"length_ft\":4,\"type\":\"3 EE1-8040\",\"serial_number\":\"35-1\",\"vertical_lbs\":6400,\"choker_lbs\":5000,\"basket_lbs\":12800}",
+    "latency_s": 6.995112925000285,
+    "prompt_tokens": 385,
+    "completion_tokens": 67,
+    "cost_usd": 9.6232752e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "WEINBRENNER",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-8040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "35-1",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "4.jpg",
+    "run": 1,
+    "text": "{\"brand\":\"PRIME TAGS\",\"grade\":\"CHAIN SLING\",\"chain_size\":\"10MM\",\"date_in_service\":\"13/08/2025\",\"serial_number\":\"CS10001\",\"wll_left_t\":3.2,\"wll_right_t\":2.5}",
+    "latency_s": 0.9905371880013263,
+    "prompt_tokens": 885,
+    "completion_tokens": 58,
+    "cost_usd": 8.230167e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": 3.2,
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": 2.5,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "4.jpg",
+    "run": 2,
+    "text": "{\"brand\":\"PRIME TAGS\",\"grade\":\"CHAIN SLING\",\"chain_size\":\"10MM\",\"date_in_service\":\"13/08/2025\",\"serial_number\":\"CS10001\",\"wll_left_t\":3.2,\"wll_right_t\":2.5}",
+    "latency_s": 1.1946085130002757,
+    "prompt_tokens": 885,
+    "completion_tokens": 58,
+    "cost_usd": 8.230167e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": 3.2,
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": 2.5,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "4.jpg",
+    "run": 3,
+    "text": "{\"brand\":\"PRIME TAGS\",\"grade\":\"CHAIN SLING\",\"chain_size\":\"10MM\",\"date_in_service\":\"13/08/2025\",\"serial_number\":\"CS10001\",\"wll_left_t\":3.2,\"wll_right_t\":2.5}",
+    "latency_s": 1.2123854519995803,
+    "prompt_tokens": 885,
+    "completion_tokens": 58,
+    "cost_usd": 8.230167e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": 3.2,
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": 2.5,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "5.jpg",
+    "run": 1,
+    "text": "{\"brand\":\"MAZZELLA\",\"sling_type\":\"7-PART SLING\",\"component_dia\":\"1/8\",\"finished_dia\":\"3/8\",\"length\":null,\"vertical_tons\":1.2,\"choker_tons\":1.0,\"basket_90_tons\":2.4,\"date\":\"08-20\",\"serial_number\":\"30P30661S1634\"}",
+    "latency_s": 0.9302058940011193,
+    "prompt_tokens": 559,
+    "completion_tokens": 84,
+    "cost_usd": 0.000135542484,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": null,
+        "correct": false
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": 1.2,
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": 1.0,
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": 2.4,
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "30P30661S1634",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "5.jpg",
+    "run": 2,
+    "text": "{\"brand\":\"MAZZELLA\",\"sling_type\":\"7-PART SLING\",\"component_dia\":\"1/8\",\"finished_dia\":\"3/8\",\"length\":null,\"vertical_tons\":1.2,\"choker_tons\":1.0,\"basket_90_tons\":2.4,\"date\":\"08-20\",\"serial_number\":\"30P30661-3-1-64\"}",
+    "latency_s": 1.0052916960012226,
+    "prompt_tokens": 559,
+    "completion_tokens": 87,
+    "cost_usd": 0.000138037284,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": null,
+        "correct": false
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": 1.2,
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": 1.0,
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": 2.4,
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "30P30661-3-1-64",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "deepseek/deepseek-v4.1-flash-1017",
+    "image": "5.jpg",
+    "run": 3,
+    "text": "{\"brand\":\"MAZZELLA\",\"sling_type\":\"7-PART SLING\",\"component_dia\":\"1/8\",\"finished_dia\":\"3/8\",\"length\":null,\"vertical_tons\":1.2,\"choker_tons\":1.0,\"basket_90_tons\":2.4,\"date\":\"08-20\",\"serial_number\":\"30P30661-3-1-64\"}",
+    "latency_s": 1.0065131119990838,
+    "prompt_tokens": 559,
+    "completion_tokens": 87,
+    "cost_usd": 0.000138037284,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": null,
+        "correct": false
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": 1.2,
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": 1.0,
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": 2.4,
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "30P30661-3-1-64",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "1.jpg",
+    "run": 1,
+    "text": "{\"manufacturer\": \"USCC\", \"model\": \"PRS2-3\", \"sling_type\": \"POLYESTER ROUND SLING\", \"serial_number\": \"1121346-14-13\", \"mfg_date\": \"5/28/25\", \"wll_vertical_lbs\": 5300, \"wll_choker_lbs\": 4200, \"wll_basket_lbs\": 10600}",
+    "latency_s": 1.557026811002288,
+    "prompt_tokens": 1824,
+    "completion_tokens": 122,
+    "cost_usd": 0.000240966,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "1.jpg",
+    "run": 2,
+    "text": "{\"manufacturer\": \"USCC\", \"model\": \"PRS2-3\", \"sling_type\": \"POLYESTER ROUND SLING\", \"serial_number\": \"1121346-14-13\", \"mfg_date\": \"5/28/25\", \"wll_vertical_lbs\": 5300, \"wll_choker_lbs\": 4200, \"wll_basket_lbs\": 10600}",
+    "latency_s": 2.584058766999078,
+    "prompt_tokens": 1824,
+    "completion_tokens": 122,
+    "cost_usd": 0.000240966,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "1.jpg",
+    "run": 3,
+    "text": "{\"manufacturer\": \"USCC\", \"model\": \"PRS2-3\", \"sling_type\": \"POLYESTER ROUND SLING\", \"serial_number\": \"1121346-14-13\", \"mfg_date\": \"5/28/25\", \"wll_vertical_lbs\": 5300, \"wll_choker_lbs\": 4200, \"wll_basket_lbs\": 10600}",
+    "latency_s": 2.2567383120003797,
+    "prompt_tokens": 1824,
+    "completion_tokens": 122,
+    "cost_usd": 0.000240966,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "USCC",
+        "correct": true
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "1121346-14-13",
+        "correct": true
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "2.jpg",
+    "run": 1,
+    "text": "{\"manufacturer\": \"UNIROPE\", \"code\": \"UPD-L 2300\", \"material\": \"Polyester\", \"length\": 6, \"design_factor\": \"5:1\", \"vertical_lbs\": 23000, \"vertical_kgs\": 10430, \"choker_lbs\": 18400, \"choker_kgs\": 8340, \"basket_90_lbs\": 46000, \"basket_90_kgs\": 20860}",
+    "latency_s": 1.7487548280005285,
+    "prompt_tokens": 1560,
+    "completion_tokens": 135,
+    "cost_usd": 0.000221265,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "2.jpg",
+    "run": 2,
+    "text": "{\"manufacturer\": \"UNIROPE\", \"code\": \"UPD-L 2300\", \"material\": \"Polyester\", \"length\": 6, \"design_factor\": \"5:1\", \"vertical_lbs\": 23000, \"vertical_kgs\": 10430, \"choker_lbs\": 18400, \"choker_kgs\": 8340, \"basket_90_lbs\": 46000, \"basket_90_kgs\": 20860}",
+    "latency_s": 2.22710764400108,
+    "prompt_tokens": 1560,
+    "completion_tokens": 135,
+    "cost_usd": 0.000221265,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "2.jpg",
+    "run": 3,
+    "text": "{\"manufacturer\": \"UNIROPE\", \"code\": \"UPD-L 2300\", \"material\": \"Polyester\", \"length\": 6, \"design_factor\": \"5:1\", \"vertical_lbs\": 23000, \"vertical_kgs\": 10430, \"choker_lbs\": 18400, \"choker_kgs\": 8340, \"basket_90_lbs\": 46000, \"basket_90_kgs\": 20860}",
+    "latency_s": 1.7723404829994251,
+    "prompt_tokens": 1560,
+    "completion_tokens": 135,
+    "cost_usd": 0.000221265,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "3.jpg",
+    "run": 1,
+    "text": "{\"brand\": \"Werimaster\", \"material\": \"POLYESTER\", \"width_in\": 4, \"length_ft\": 4, \"type\": \"3 EE1-804D\", \"serial_number\": \"5331-1\", \"vertical_lbs\": 6400, \"choker_lbs\": 5000, \"basket_lbs\": 12800}",
+    "latency_s": 1.3983322019994375,
+    "prompt_tokens": 609,
+    "completion_tokens": 104,
+    "cost_usd": 0.000111771,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "Werimaster",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-804D",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "5331-1",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "3.jpg",
+    "run": 2,
+    "text": "{\"brand\": \"Werma-Ster\", \"material\": \"POLYESTER\", \"width_in\": 4, \"length_ft\": 4, \"type\": \"3 EE1-804D\", \"serial_number\": \"5301-1\", \"vertical_lbs\": 6400, \"choker_lbs\": 5000, \"basket_lbs\": 12800}",
+    "latency_s": 1.3558117600005062,
+    "prompt_tokens": 609,
+    "completion_tokens": 106,
+    "cost_usd": 0.000112761,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "Werma-Ster",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-804D",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "5301-1",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "3.jpg",
+    "run": 3,
+    "text": "{\"brand\": \"Wesmaster\", \"material\": \"POLYESTER\", \"width_in\": 4, \"length_ft\": 4, \"type\": \"3 EE1-804D\", \"serial_number\": \"5303-1\", \"vertical_lbs\": 6400, \"choker_lbs\": 5000, \"basket_lbs\": 12800}",
+    "latency_s": 1.5874542409983405,
+    "prompt_tokens": 609,
+    "completion_tokens": 105,
+    "cost_usd": 0.000112266,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "Wesmaster",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "3 EE1-804D",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "5303-1",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "4.jpg",
+    "run": 1,
+    "text": "{\"brand\": \"PRIME TAGS\", \"grade\": \"CHAIN SLING\", \"chain_size\": \"10MM\", \"date_in_service\": \"13/08/2025\", \"serial_number\": \"CS10001\", \"wll_left_t\": \"3\", \"wll_right_t\": \"2\"}",
+    "latency_s": 2.1094510260008974,
+    "prompt_tokens": 1789,
+    "completion_tokens": 92,
+    "cost_usd": 0.000222651,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": "3",
+        "correct": false
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": "2",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "4.jpg",
+    "run": 2,
+    "text": "{\"brand\": \"PRIME TAGS\", \"grade\": \"CHAIN SLING\", \"chain_size\": \"10MM\", \"date_in_service\": \"13/08/2025\", \"serial_number\": \"CS10001\", \"wll_left_t\": \"3.2\", \"wll_right_t\": \"2.5\"}",
+    "latency_s": 1.430175130997668,
+    "prompt_tokens": 1789,
+    "completion_tokens": 96,
+    "cost_usd": 0.000224631,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": "3.2",
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": "2.5",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "4.jpg",
+    "run": 3,
+    "text": "{\"brand\": \"PRIME TAGS\", \"grade\": \"CHAIN SLING\", \"chain_size\": \"10MM\", \"date_in_service\": \"13/08/2025\", \"serial_number\": \"CS10001\", \"wll_left_t\": \"3\", \"wll_right_t\": \"2\"}",
+    "latency_s": 1.3429474369986565,
+    "prompt_tokens": 1789,
+    "completion_tokens": 92,
+    "cost_usd": 0.000222651,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": "3",
+        "correct": false
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": "2",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "5.jpg",
+    "run": 1,
+    "text": "{\"brand\": \"MAZZELLA\", \"sling_type\": \"7-PART SLING\", \"component_dia\": \"1/8\", \"finished_dia\": \"3/8\", \"length\": \"8\", \"vertical_tons\": \"1.2\", \"choker_tons\": \"1.0\", \"basket_90_tons\": \"2.4\", \"date\": \"08-20\", \"serial_number\": \"38P3861946654\"}",
+    "latency_s": 1.6038718039999367,
+    "prompt_tokens": 999,
+    "completion_tokens": 122,
+    "cost_usd": 0.000159291,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": "1.2",
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": "1.0",
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": "2.4",
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "38P3861946654",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "5.jpg",
+    "run": 2,
+    "text": "{\"brand\": \"MAZZELLA\", \"sling_type\": \"7-PART SLING\", \"component_dia\": \"1/8\", \"finished_dia\": \"3/8\", \"length\": \"8\", \"vertical_tons\": \"1.2\", \"choker_tons\": \"1.0\", \"basket_90_tons\": \"2.4\", \"date\": \"08-20\", \"serial_number\": \"38P36614964\"}",
+    "latency_s": 1.9373924659994373,
+    "prompt_tokens": 999,
+    "completion_tokens": 121,
+    "cost_usd": 0.000158796,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": "1.2",
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": "1.0",
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": "2.4",
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "38P36614964",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "anthropic/claude-haiku-5.5",
+    "image": "5.jpg",
+    "run": 3,
+    "text": "{\"brand\": \"MAZZELLA\", \"sling_type\": \"7-PART SLING\", \"component_dia\": \"1/8\", \"finished_dia\": \"3/8\", \"length\": \"8\", \"vertical_tons\": \"1.2\", \"choker_tons\": \"1.0\", \"basket_90_tons\": \"2.4\", \"date\": \"08-20\", \"serial_number\": \"38P3861983654\"}",
+    "latency_s": 1.568507749998389,
+    "prompt_tokens": 999,
+    "completion_tokens": 122,
+    "cost_usd": 0.000159291,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": "1.2",
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": "1.0",
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": "2.4",
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "38P3861983654",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "1.jpg",
+    "run": 1,
+    "text": "{\"manufacturer\":\"US Cargo Control\",\"model\":\"PRS2-3\",\"sling_type\":\"POLYESTER ROUND SLING\",\"serial_number\":\"11721346-14-13\",\"mfg_date\":\"5/28/25\",\"wll_vertical_lbs\":5300,\"wll_choker_lbs\":4200,\"wll_basket_lbs\":10600}",
+    "latency_s": 1.9744493759972102,
+    "prompt_tokens": 1585,
+    "completion_tokens": 80,
+    "cost_usd": 0.0002356695,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "US Cargo Control",
+        "correct": false
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "11721346-14-13",
+        "correct": false
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "1.jpg",
+    "run": 2,
+    "text": "{\"manufacturer\":\"US Cargo Control\",\"model\":\"PRS2-3\",\"sling_type\":\"POLYESTER ROUND SLING\",\"serial_number\":\"11721346-14-13\",\"mfg_date\":\"5/28/25\",\"wll_vertical_lbs\":5300,\"wll_choker_lbs\":4200,\"wll_basket_lbs\":10600}",
+    "latency_s": 2.4540646800014656,
+    "prompt_tokens": 1585,
+    "completion_tokens": 80,
+    "cost_usd": 5.55588e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "US Cargo Control",
+        "correct": false
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "11721346-14-13",
+        "correct": false
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "1.jpg",
+    "run": 3,
+    "text": "{\"manufacturer\":\"US Cargo Control\",\"model\":\"PRS2-3\",\"sling_type\":\"POLYESTER ROUND SLING\",\"serial_number\":\"11721346-14-13\",\"mfg_date\":\"5/28/25\",\"wll_vertical_lbs\":5300,\"wll_choker_lbs\":4200,\"wll_basket_lbs\":10600}",
+    "latency_s": 2.976568486999895,
+    "prompt_tokens": 1585,
+    "completion_tokens": 80,
+    "cost_usd": 5.55588e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "USCC",
+        "predicted": "US Cargo Control",
+        "correct": false
+      },
+      "model": {
+        "expected": "PRS2-3",
+        "predicted": "PRS2-3",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "POLYESTER ROUND SLING",
+        "predicted": "POLYESTER ROUND SLING",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "11213461413",
+        "predicted": "11721346-14-13",
+        "correct": false
+      },
+      "mfg_date": {
+        "expected": "5/28/25",
+        "predicted": "5/28/25",
+        "correct": true
+      },
+      "wll_vertical_lbs": {
+        "expected": "5300",
+        "predicted": 5300,
+        "correct": true
+      },
+      "wll_choker_lbs": {
+        "expected": "4200",
+        "predicted": 4200,
+        "correct": true
+      },
+      "wll_basket_lbs": {
+        "expected": "10600",
+        "predicted": 10600,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "2.jpg",
+    "run": 1,
+    "text": "{\"manufacturer\":\"UNIROPE\",\"code\":\"UPD-L 2300\",\"material\":\"Polyester\",\"length\":6,\"design_factor\":\"5:1\",\"vertical_lbs\":23000,\"vertical_kgs\":10430,\"choker_lbs\":18400,\"choker_kgs\":8340,\"basket_90_lbs\":46000,\"basket_90_kgs\":20860}",
+    "latency_s": 3.086653998001566,
+    "prompt_tokens": 1386,
+    "completion_tokens": 84,
+    "cost_usd": 5.55687e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "2.jpg",
+    "run": 2,
+    "text": "{\"manufacturer\":\"UNIROPE\",\"code\":\"UPD-L 2300\",\"material\":\"Polyester\",\"length\":6,\"design_factor\":\"5:1\",\"vertical_lbs\":23000,\"vertical_kgs\":10430,\"choker_lbs\":18400,\"choker_kgs\":8340,\"basket_90_lbs\":46000,\"basket_90_kgs\":20860}",
+    "latency_s": 3.039688903001661,
+    "prompt_tokens": 1386,
+    "completion_tokens": 84,
+    "cost_usd": 5.55687e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "2.jpg",
+    "run": 3,
+    "text": "{\"manufacturer\":\"UNIROPE\",\"code\":\"UPD-L 2300\",\"material\":\"Polyester\",\"length\":6,\"design_factor\":\"5:1\",\"vertical_lbs\":23000,\"vertical_kgs\":10430,\"choker_lbs\":18400,\"choker_kgs\":8340,\"basket_90_lbs\":46000,\"basket_90_kgs\":20860}",
+    "latency_s": 2.6993129669972404,
+    "prompt_tokens": 1386,
+    "completion_tokens": 84,
+    "cost_usd": 5.55687e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "manufacturer": {
+        "expected": "UNIROPE",
+        "predicted": "UNIROPE",
+        "correct": true
+      },
+      "code": {
+        "expected": "UPD-L 2300",
+        "predicted": "UPD-L 2300",
+        "correct": true
+      },
+      "material": {
+        "expected": "Polyester",
+        "predicted": "Polyester",
+        "correct": true
+      },
+      "length": {
+        "expected": "6",
+        "predicted": 6,
+        "correct": true
+      },
+      "design_factor": {
+        "expected": "5:1",
+        "predicted": "5:1",
+        "correct": true
+      },
+      "vertical_lbs": {
+        "expected": "23000",
+        "predicted": 23000,
+        "correct": true
+      },
+      "vertical_kgs": {
+        "expected": "10430",
+        "predicted": 10430,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "18400",
+        "predicted": 18400,
+        "correct": true
+      },
+      "choker_kgs": {
+        "expected": "8340",
+        "predicted": 8340,
+        "correct": true
+      },
+      "basket_90_lbs": {
+        "expected": "46000",
+        "predicted": 46000,
+        "correct": true
+      },
+      "basket_90_kgs": {
+        "expected": "20860",
+        "predicted": 20860,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "3.jpg",
+    "run": 1,
+    "text": "{\"brand\":\"LIFT-ALL\",\"material\":\"POLYESTER\",\"width_in\":4,\"length_ft\":4,\"type\":\"EE1-8040\",\"serial_number\":\"S.N. 531\",\"vertical_lbs\":6400,\"choker_lbs\":5000,\"basket_lbs\":12800}",
+    "latency_s": 2.222668217997125,
+    "prompt_tokens": 490,
+    "completion_tokens": 68,
+    "cost_usd": 8.217e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "LIFT-ALL",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "EE1-8040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "S.N. 531",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "3.jpg",
+    "run": 2,
+    "text": "{\"brand\":\"LIFT-ALL\",\"material\":\"POLYESTER\",\"width_in\":4,\"length_ft\":4,\"type\":\"EE1-804\",\"serial_number\":\"S.N. 5315\",\"vertical_lbs\":6400,\"choker_lbs\":5000,\"basket_lbs\":12800}",
+    "latency_s": 1.7339138580027793,
+    "prompt_tokens": 490,
+    "completion_tokens": 68,
+    "cost_usd": 8.217e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "LIFT-ALL",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "EE1-804",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "S.N. 5315",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "3.jpg",
+    "run": 3,
+    "text": "{\"brand\":\"LIFT-ALL\",\"material\":\"POLYESTER\",\"width_in\":4,\"length_ft\":4,\"type\":\"EE1-8040\",\"serial_number\":\"S.N. 5356\",\"vertical_lbs\":6400,\"choker_lbs\":5000,\"basket_lbs\":12800}",
+    "latency_s": 1.7792299240027205,
+    "prompt_tokens": 490,
+    "completion_tokens": 69,
+    "cost_usd": 8.2665e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "WEBMASTER",
+        "predicted": "LIFT-ALL",
+        "correct": false
+      },
+      "material": {
+        "expected": "POLYESTER",
+        "predicted": "POLYESTER",
+        "correct": true
+      },
+      "width_in": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "length_ft": {
+        "expected": "4",
+        "predicted": 4,
+        "correct": true
+      },
+      "type": {
+        "expected": "3 EE1-804D",
+        "predicted": "EE1-8040",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "853131-1",
+        "predicted": "S.N. 5356",
+        "correct": false
+      },
+      "vertical_lbs": {
+        "expected": "6400",
+        "predicted": 6400,
+        "correct": true
+      },
+      "choker_lbs": {
+        "expected": "5000",
+        "predicted": 5000,
+        "correct": true
+      },
+      "basket_lbs": {
+        "expected": "12800",
+        "predicted": 12800,
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "4.jpg",
+    "run": 1,
+    "text": "{\"brand\":\"PRIME TAGS\",\"grade\":\"CHAIN SLING\",\"chain_size\":\"10MM\",\"date_in_service\":\"13/08/2025\",\"serial_number\":\"CS10001\",\"wll_left_t\":\"3.2\",\"wll_right_t\":\"2.5\"}",
+    "latency_s": 1.7889400179992663,
+    "prompt_tokens": 1560,
+    "completion_tokens": 60,
+    "cost_usd": 4.54113e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": "3.2",
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": "2.5",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "4.jpg",
+    "run": 2,
+    "text": "{\"brand\":\"PRIME TAGS\",\"grade\":\"CHAIN SLING\",\"chain_size\":\"10MM\",\"date_in_service\":\"13/08/2025\",\"serial_number\":\"CS10001\",\"wll_left_t\":\"3.2\",\"wll_right_t\":\"2.5\"}",
+    "latency_s": 1.3770290950014896,
+    "prompt_tokens": 1560,
+    "completion_tokens": 60,
+    "cost_usd": 4.54113e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": "3.2",
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": "2.5",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "4.jpg",
+    "run": 3,
+    "text": "{\"brand\":\"PRIME TAGS\",\"grade\":\"CHAIN SLING\",\"chain_size\":\"10MM\",\"date_in_service\":\"13/08/2025\",\"serial_number\":\"CS10001\",\"wll_left_t\":\"3.2\",\"wll_right_t\":\"2.5\"}",
+    "latency_s": 1.8262845049976022,
+    "prompt_tokens": 1560,
+    "completion_tokens": 60,
+    "cost_usd": 4.54113e-05,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "PRIME TAGS",
+        "predicted": "PRIME TAGS",
+        "correct": true
+      },
+      "grade": {
+        "expected": "CHAIN SLING",
+        "predicted": "CHAIN SLING",
+        "correct": true
+      },
+      "chain_size": {
+        "expected": "10MM",
+        "predicted": "10MM",
+        "correct": true
+      },
+      "date_in_service": {
+        "expected": "13/08/2025",
+        "predicted": "13/08/2025",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "CS10001",
+        "predicted": "CS10001",
+        "correct": true
+      },
+      "wll_left_t": {
+        "expected": "3.2",
+        "predicted": "3.2",
+        "correct": true
+      },
+      "wll_right_t": {
+        "expected": "2.5",
+        "predicted": "2.5",
+        "correct": true
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "5.jpg",
+    "run": 1,
+    "text": "{\"brand\":\"MAZZELLA\",\"sling_type\":\"7-PART SLING\",\"component_dia\":\"1/8\",\"finished_dia\":\"3/8\",\"length\":\"8\",\"vertical_tons\":1.2,\"choker_tons\":1.0,\"basket_90_tons\":2.4,\"date\":\"06-20\",\"serial_number\":\"\"}",
+    "latency_s": 3.6758332639983564,
+    "prompt_tokens": 824,
+    "completion_tokens": 79,
+    "cost_usd": 0.000120681,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": 1.2,
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": 1.0,
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": 2.4,
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "06-20",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "5.jpg",
+    "run": 2,
+    "text": "{\"brand\":\"MAZZELLA\",\"sling_type\":\"7-PART SLING\",\"component_dia\":\"1/8\",\"finished_dia\":\"3/8\",\"length\":\"3\",\"vertical_tons\":12,\"choker_tons\":10,\"basket_90_tons\":24,\"date\":\"08-20\",\"serial_number\":\"\"}",
+    "latency_s": 2.4039231520000612,
+    "prompt_tokens": 824,
+    "completion_tokens": 73,
+    "cost_usd": 0.000117711,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "3",
+        "correct": false
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": 12,
+        "correct": false
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": 10,
+        "correct": false
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": 24,
+        "correct": false
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "08-20",
+        "correct": true
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": "",
+        "correct": false
+      }
+    }
+  },
+  {
+    "model": "openai/gpt-6-luna",
+    "image": "5.jpg",
+    "run": 3,
+    "text": "{\"brand\":\"MAZZELLA\",\"sling_type\":\"7-PART SLING\",\"component_dia\":\"1/8\",\"finished_dia\":\"3/8\",\"length\":\"8\",\"vertical_tons\":1.2,\"choker_tons\":1.0,\"basket_90_tons\":2.4,\"date\":\"FEB-20\",\"serial_number\":null}",
+    "latency_s": 2.2428713910012448,
+    "prompt_tokens": 824,
+    "completion_tokens": 80,
+    "cost_usd": 0.000121176,
+    "finish_reason": "stop",
+    "json_valid": true,
+    "fields": {
+      "brand": {
+        "expected": "MAZZELLA",
+        "predicted": "MAZZELLA",
+        "correct": true
+      },
+      "sling_type": {
+        "expected": "7-PART SLING",
+        "predicted": "7-PART SLING",
+        "correct": true
+      },
+      "component_dia": {
+        "expected": "1/8",
+        "predicted": "1/8",
+        "correct": true
+      },
+      "finished_dia": {
+        "expected": "3/8",
+        "predicted": "3/8",
+        "correct": true
+      },
+      "length": {
+        "expected": "8",
+        "predicted": "8",
+        "correct": true
+      },
+      "vertical_tons": {
+        "expected": "1.2",
+        "predicted": 1.2,
+        "correct": true
+      },
+      "choker_tons": {
+        "expected": "1.0",
+        "predicted": 1.0,
+        "correct": true
+      },
+      "basket_90_tons": {
+        "expected": "2.4",
+        "predicted": 2.4,
+        "correct": true
+      },
+      "date": {
+        "expected": "08-20",
+        "predicted": "FEB-20",
+        "correct": false
+      },
+      "serial_number": {
+        "expected": "30P30619094",
+        "predicted": null,
+        "correct": false
+      }
+    }
+  }
+]

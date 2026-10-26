@@ -1,0 +1,169 @@
+{
+  "1.jpg": {
+    "fields": {
+      "manufacturer": { "desc": "brand/logo name on the tag", "value": "USCC" },
+      "model": {
+        "desc": "model/part number printed next to the color",
+        "value": "PRS2-3"
+      },
+      "sling_type": {
+        "desc": "sling description line",
+        "value": "POLYESTER ROUND SLING"
+      },
+      "serial_number": {
+        "desc": "value after SER#",
+        "value": "11213461413"
+      },
+      "mfg_date": {
+        "desc": "manufacture date (in format m/dd/yy)",
+        "value": "5/28/25"
+      },
+      "wll_vertical_lbs": {
+        "desc": "WLL vertical in lbs (number only)",
+        "value": "5300"
+      },
+      "wll_choker_lbs": {
+        "desc": "WLL choker in lbs (number only)",
+        "value": "4200"
+      },
+      "wll_basket_lbs": {
+        "desc": "WLL basket in lbs (number only)",
+        "value": "10600"
+      }
+    }
+  },
+  "2.jpg": {
+    "fields": {
+      "manufacturer": { "desc": "brand name on the tag", "value": "UNIROPE" },
+      "code": { "desc": "value in the Code row", "value": "UPD-L 2300" },
+      "material": { "desc": "value in the Material row", "value": "Polyester" },
+      "length": {
+        "desc": "value in the Length row in ft (number only)",
+        "value": "6"
+      },
+      "design_factor": {
+        "desc": "DF value under Rated Capacity",
+        "value": "5:1"
+      },
+      "vertical_lbs": {
+        "desc": "vertical rated capacity in lbs (number only)",
+        "value": "23000"
+      },
+      "vertical_kgs": {
+        "desc": "vertical rated capacity in kgs (number only)",
+        "value": "10430"
+      },
+      "choker_lbs": {
+        "desc": "choker rated capacity in lbs (number only)",
+        "value": "18400"
+      },
+      "choker_kgs": {
+        "desc": "choker rated capacity in kgs (number only)",
+        "value": "8340"
+      },
+      "basket_90_lbs": {
+        "desc": "90 degree basket rated capacity in lbs (number only)",
+        "value": "46000"
+      },
+      "basket_90_kgs": {
+        "desc": "90 degree basket rated capacity in kgs (number only)",
+        "value": "20860"
+      }
+    }
+  },
+  "3.jpg": {
+    "fields": {
+      "brand": {
+        "desc": "brand name on the left edge of the tag",
+        "value": "WEBMASTER"
+      },
+      "material": {
+        "desc": "material at top of the tag",
+        "value": "POLYESTER"
+      },
+      "width_in": { "desc": "width in inches (number only)", "value": "4" },
+      "length_ft": { "desc": "length in feet (number only)", "value": "4" },
+      "type": { "desc": "value after TYPE", "value": "3 EE1-804D" },
+      "serial_number": {
+        "desc": "serial number value after S.N",
+        "value": "853131-1"
+      },
+      "vertical_lbs": {
+        "desc": "vertical capacity in lbs (number only)",
+        "value": "6400"
+      },
+      "choker_lbs": {
+        "desc": "choker capacity in lbs (number only)",
+        "value": "5000"
+      },
+      "basket_lbs": {
+        "desc": "basket capacity in lbs (number only)",
+        "value": "12800"
+      }
+    }
+  },
+  "4.jpg": {
+    "fields": {
+      "brand": { "desc": "brand name on the tag", "value": "PRIME TAGS" },
+      "grade": { "desc": "value on the GRADE row", "value": "CHAIN SLING" },
+      "chain_size": { "desc": "value on the CHAIN SIZE row", "value": "10MM" },
+      "date_in_service": {
+        "desc": "value on the DATE IN SERVICE row (in format dd/mm/yyyy)",
+        "value": "13/08/2025"
+      },
+      "serial_number": {
+        "desc": "value on the SERIAL NO. row",
+        "value": "CS10001"
+      },
+      "wll_left_t": {
+        "desc": "Working Load Limit (T), left column (hook icon), number only",
+        "value": "3.2"
+      },
+      "wll_right_t": {
+        "desc": "Working Load Limit (T), right column (second icon), number only",
+        "value": "2.5"
+      }
+    }
+  },
+  "5.jpg": {
+    "fields": {
+      "brand": { "desc": "brand name on the tag", "value": "MAZZELLA" },
+      "sling_type": {
+        "desc": "sling type text on the right of the logo",
+        "value": "7-PART SLING"
+      },
+      "component_dia": {
+        "desc": "value in the COMPONENT DIA box (no units only number or fraction)",
+        "value": "1/8"
+      },
+      "finished_dia": {
+        "desc": "value in the FINISHED DIA box (no unites only number or fraction)",
+        "value": "3/8"
+      },
+      "length": {
+        "desc": "value in the length box (only number)",
+        "value": "8"
+      },
+      "vertical_tons": {
+        "desc": "VERTICAL rated capacity in tons (number only)",
+        "value": "1.2"
+      },
+      "choker_tons": {
+        "desc": "CHOKER rated capacity in tons (number only)",
+        "value": "1.0"
+      },
+      "basket_90_tons": {
+        "desc": "90 degree BASKET rated capacity in tons (number only)",
+        "value": "2.4"
+      },
+      "date": {
+        "desc": "",
+        "value": "08-20"
+      },
+      "serial_number": {
+        "desc": "SN with no commas or dashes (only numbers and letters)",
+        "value": "30P30619094"
+      }
+    }
+  }
+}
